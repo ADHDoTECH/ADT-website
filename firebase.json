@@ -1,0 +1,17 @@
+{
+  "hosting": {
+    "public": "_site",
+    "ignore": ["firebase.json", "**/.*", "**/node_modules/**"],
+    "cleanUrls": true,
+    "redirects": [
+      { "source": "/event-details/**", "destination": "/", "type": 301 },
+      { "source": "/en/event-details/**", "destination": "/en/", "type": 301 },
+      { "source": "/donation-thank-you-page", "destination": "/", "type": 301 },
+      { "source": "/en/donation-thank-you-page", "destination": "/en/", "type": 301 },
+      { "source": "/account/**", "destination": "/", "type": 301 },
+      { "source": "/en/account/**", "destination": "/en/", "type": 301 },
+      { "source": "/members-area/**", "destination": "/", "type": 301 },
+      { "source": "/en/members-area/**", "destination": "/en/", "type": 301 }
+    ]
+  }
+}

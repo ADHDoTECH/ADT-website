@@ -1,0 +1,19 @@
+{
+  "name": "adt-website",
+  "private": true,
+  "description": "The ADHDoTECH website (www.adhdotech.org): a static Eleventy site in Hebrew and English on Firebase Hosting.",
+  "type": "module",
+  "scripts": {
+    "clean": "rm -rf _site",
+    "build": "npm run clean && eleventy",
+    "start": "eleventy --serve",
+    "preview": "npm run build && firebase serve --only hosting --project adt-website-28182 --port 5050",
+    "deploy": "npm run build && firebase deploy --only hosting --project adt-website-28182"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "devDependencies": {
+    "@11ty/eleventy": "^3.1.8"
+  }
+}

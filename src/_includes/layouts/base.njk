@@ -1,0 +1,84 @@
+{#- The one shared layout: header (logo, menu, language switch), page content, footer.
+    `lang` is "he" for pages under src/ and "en" for pages under src/en/. -#}
+{%- set t = site[lang] -%}
+{%- set otherLang = "en" if lang == "he" else "he" -%}
+{%- set translationUrl = page.url | counterpart(lang, collections.all) -%}
+{%- set otherUrl = translationUrl or site[otherLang].home -%}
+<!doctype html>
+<html lang="{{ lang }}" dir="{{ t.dir }}">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{% if title %}{{ title }} | {% endif %}{{ site.name }}</title>
+  {%- if description %}
+  <meta name="description" content="{{ description }}">
+  {%- endif %}
+  <link rel="icon" href="/assets/favicon.png" type="image/png">
+  <link rel="alternate" hreflang="{{ lang }}" href="{{ site.url }}{{ page.url }}">
+  {%- if translationUrl %}
+  <link rel="alternate" hreflang="{{ otherLang }}" href="{{ site.url }}{{ translationUrl }}">
+  {%- endif %}
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Heebo:wght@300;400;500;700&display=swap">
+  <link rel="stylesheet" href="/assets/site.css">
+</head>
+<body>
+  <a class="skip-link" href="#main">{{ t.skipToContent }}</a>
+
+  <header class="site-header">
+    <div class="wrap header-bar">
+      <a class="brand" href="{{ t.home }}" aria-label="{{ site.name }} – {{ t.homeLabel }}">
+        <img src="/assets/logo.svg" alt="{{ site.name }}" width="280" height="56">
+        <span class="tagline" lang="en">{{ site.tagline }}</span>
+      </a>
+      <a class="lang-switch" href="{{ otherUrl }}" lang="{{ otherLang }}" hreflang="{{ otherLang }}">{{ site[otherLang].languageName }}</a>
+    </div>
+
+    <nav class="wrap site-nav" aria-label="{{ t.menuLabel }}">
+      <ul class="menu">
+        {%- for item in nav[lang] %}
+        <li{% if item.children %} class="has-children"{% endif %}>
+          <a href="{{ item.href }}"{% if item.href | isCurrent(page.url) %} aria-current="page"{% endif %}>{{ item.label }}</a>
+          {%- if item.children %}
+          <ul class="submenu">
+            {%- for child in item.children %}
+            <li><a href="{{ child.href }}"{% if child.href | isCurrent(page.url) %} aria-current="page"{% endif %}>{{ child.label }}</a></li>
+            {%- endfor %}
+          </ul>
+          {%- endif %}
+        </li>
+        {%- endfor %}
+      </ul>
+    </nav>
+    <div class="brand-stripe" aria-hidden="true"></div>
+  </header>
+
+  <main id="main" class="wrap site-main" tabindex="-1">
+    {{ content | safe }}
+  </main>
+
+  <footer class="site-footer">
+    <div class="wrap footer-grid">
+      <div>
+        <a class="footer-email" href="{{ site.contactHref }}">{{ site.email }}</a>
+        <p class="footer-actions">
+          <a href="{{ site.contactHref }}">{{ t.contact }}</a>
+          <a class="button" href="{{ t.donateHref }}">{{ t.donate }}</a>
+        </p>
+      </div>
+      <div>
+        <p class="footer-heading">{{ t.followUs }}</p>
+        <ul class="social">
+          {%- for s in site.social %}
+          <li><a href="{{ s.href }}" rel="noopener">{{ s.name }}</a></li>
+          {%- endfor %}
+        </ul>
+      </div>
+    </div>
+    <div class="wrap footer-legal">
+      <p>© {% year %} {{ site.name }}. {{ t.rights }}</p>
+    </div>
+  </footer>
+</body>
+</html>

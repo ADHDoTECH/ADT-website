@@ -1,0 +1,344 @@
+/* ADHDoTECH website styles. Plain CSS, no framework.
+   Colours and font come from the Wix site (www.adhdotech.org, 2026-11-06).
+   Logical properties (margin-inline-start, etc.) keep one stylesheet for
+   right-to-left Hebrew and left-to-right English. */
+
+:root {
+  /* Brand colours (from the logo). Pink, orange and green are too light for
+     small text on white: use them for decoration, and the darker tones for text. */
+  --pink: #eb0f8a;
+  --orange: #f3911c;
+  --green: #b7d555;
+  --cyan: #50c2da;
+  --blue: #18539b;
+
+  --pink-text: #c4006f; /* AA contrast on white */
+  --text: #1a1a1a;
+  --muted: #5c5c5c;
+  --line: #e8e6e6;
+  --surface: #f6f7fb;
+  --bg: #ffffff;
+
+  --font: "Heebo", Arial, sans-serif;
+  --wrap: 72rem;
+  --radius: 0.5rem;
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+html {
+  -webkit-text-size-adjust: 100%;
+}
+
+body {
+  margin: 0;
+  background: var(--bg);
+  color: var(--text);
+  font-family: var(--font);
+  font-size: 1.125rem;
+  line-height: 1.6;
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+
+img,
+video,
+iframe {
+  max-width: 100%;
+  height: auto;
+}
+
+a {
+  color: var(--blue);
+  text-underline-offset: 0.15em;
+}
+
+a:hover {
+  color: var(--pink-text);
+}
+
+:focus-visible {
+  outline: 3px solid var(--orange);
+  outline-offset: 2px;
+}
+
+h1,
+h2,
+h3 {
+  color: var(--blue);
+  line-height: 1.25;
+  font-weight: 700;
+}
+
+h1 {
+  font-size: clamp(1.75rem, 4vw, 2.5rem);
+}
+
+h2 {
+  font-size: clamp(1.4rem, 3vw, 1.9rem);
+}
+
+.wrap {
+  width: 100%;
+  max-width: var(--wrap);
+  margin-inline: auto;
+  padding-inline: 1.25rem;
+}
+
+.skip-link {
+  position: absolute;
+  inset-inline-start: 1rem;
+  top: -10rem;
+  z-index: 10;
+  padding: 0.5rem 1rem;
+  background: var(--blue);
+  color: #fff;
+}
+
+.skip-link:focus {
+  top: 1rem;
+}
+
+/* Header */
+
+.site-header {
+  border-block-end: 1px solid var(--line);
+}
+
+.header-bar {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 1rem;
+  padding-block: 1rem 0.5rem;
+}
+
+.brand {
+  display: inline-flex;
+  flex-direction: column;
+  align-items: center;
+  text-decoration: none;
+}
+
+.brand img {
+  display: block;
+  width: 280px;
+  max-width: 60vw;
+  height: auto;
+}
+
+.tagline {
+  color: var(--blue);
+  font-size: 0.85rem;
+  font-weight: 500;
+}
+
+.lang-switch {
+  flex-shrink: 0;
+  padding: 0.35rem 0.9rem;
+  border: 2px solid var(--blue);
+  border-radius: 999px;
+  font-size: 0.95rem;
+  font-weight: 700;
+  text-decoration: none;
+}
+
+.lang-switch:hover {
+  border-color: var(--pink-text);
+}
+
+/* Main menu */
+
+.site-nav {
+  padding-block-end: 0.5rem;
+}
+
+.menu,
+.submenu {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.menu {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.25rem 1.5rem;
+}
+
+.menu > li {
+  position: relative;
+}
+
+.menu a {
+  display: block;
+  padding-block: 0.4rem;
+  color: var(--blue);
+  font-size: 1rem;
+  font-weight: 700;
+  text-decoration: none;
+}
+
+.menu a:hover,
+.menu a[aria-current="page"] {
+  color: var(--pink-text);
+}
+
+.menu a[aria-current="page"] {
+  text-decoration: underline;
+  text-decoration-thickness: 2px;
+}
+
+.has-children > a::after {
+  content: " ▾";
+  font-size: 0.8em;
+}
+
+.submenu {
+  display: none;
+  position: absolute;
+  inset-inline-start: -0.75rem;
+  top: 100%;
+  z-index: 5;
+  min-width: 12rem;
+  padding: 0.25rem 0.75rem;
+  background: var(--bg);
+  border: 1px solid var(--line);
+  border-radius: var(--radius);
+  box-shadow: 0 6px 18px rgb(0 0 0 / 0.08);
+}
+
+.has-children:hover > .submenu,
+.has-children:focus-within > .submenu {
+  display: block;
+}
+
+.submenu a {
+  font-weight: 500;
+}
+
+/* A thin stripe in the logo's colours under the header. */
+.brand-stripe {
+  height: 4px;
+  background: linear-gradient(
+    to right,
+    var(--pink) 0 25%,
+    var(--orange) 25% 50%,
+    var(--green) 50% 75%,
+    var(--blue) 75% 100%
+  );
+}
+
+/* Content */
+
+.site-main {
+  flex: 1;
+  padding-block: 2rem 3rem;
+}
+
+.site-main:focus {
+  outline: none;
+}
+
+.button {
+  display: inline-block;
+  padding: 0.5rem 1.25rem;
+  border-radius: 999px;
+  background: var(--pink-text);
+  color: #fff;
+  font-weight: 700;
+  text-decoration: none;
+}
+
+.button:hover {
+  background: var(--blue);
+  color: #fff;
+}
+
+/* Footer */
+
+.site-footer {
+  background: var(--surface);
+  border-block-start: 1px solid var(--line);
+  font-size: 1rem;
+}
+
+.footer-grid {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  gap: 1.5rem 3rem;
+  padding-block: 2rem 1rem;
+}
+
+.footer-email {
+  font-size: 1.15rem;
+  font-weight: 700;
+}
+
+.footer-actions {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 1rem;
+}
+
+.footer-heading {
+  margin: 0 0 0.5rem;
+  color: var(--blue);
+  font-weight: 700;
+}
+
+.social {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem 1.25rem;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.footer-legal {
+  padding-block: 1rem 1.5rem;
+  color: var(--muted);
+  font-size: 0.9rem;
+}
+
+.footer-legal p {
+  margin: 0;
+}
+
+/* Small screens: the menu stacks and submenus show inline,
+   so touch users reach every page without hover. */
+@media (max-width: 720px) {
+  .header-bar {
+    flex-wrap: wrap;
+  }
+
+  .menu {
+    flex-direction: column;
+    gap: 0;
+  }
+
+  .menu > li {
+    border-block-end: 1px solid var(--line);
+  }
+
+  .has-children > a::after {
+    content: none;
+  }
+
+  .submenu {
+    display: block;
+    position: static;
+    min-width: 0;
+    padding: 0 1rem 0.25rem;
+    border: 0;
+    box-shadow: none;
+  }
+}

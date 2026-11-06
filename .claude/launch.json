@@ -1,0 +1,30 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "hosting",
+      "runtimeExecutable": "firebase",
+      "runtimeArgs": [
+        "serve",
+        "--only",
+        "hosting",
+        "--project",
+        "adt-website-28182",
+        "--port",
+        "5050"
+      ],
+      "port": 5050
+    },
+    {
+      "name": "eleventy",
+      "runtimeExecutable": "npx",
+      "runtimeArgs": [
+        "@11ty/eleventy",
+        "--serve",
+        "--port",
+        "8080"
+      ],
+      "port": 8080
+    }
+  ]
+}

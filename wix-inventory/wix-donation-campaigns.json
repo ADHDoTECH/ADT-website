@@ -1,0 +1,4 @@
+{
+ "source": "POST https://www.wixapis.com/donation-campaigns/v2/donation-campaigns/query",
+ "donationCampaigns": []
+}

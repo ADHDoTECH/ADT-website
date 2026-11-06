@@ -1,0 +1,200 @@
+{
+ "source": "POST https://www.wixapis.com/pricing-plans/v3/plans/query",
+ "plans": [
+  {
+   "id": "3f2505fc-9de8-43b7-95a8-7e64343b9fc6",
+   "revision": "4",
+   "createdDate": "2024-11-06T13:13:26.418Z",
+   "updatedDate": "2026-06-02T18:11:37.019Z",
+   "name": "Free",
+   "description": "Use this area to describe one of your memberships.",
+   "slug": "free",
+   "termsAndConditions": "",
+   "maxPurchasesPerBuyer": 0,
+   "pricingVariants": [
+    {
+     "id": "3f2505fc-9de8-43b7-95a8-7e64343b9fc6",
+     "name": "Free",
+     "freeTrialDays": 0,
+     "fees": [],
+     "billingTerms": {
+      "billingCycle": {
+       "period": "MONTH",
+       "count": "3"
+      },
+      "startType": "ON_PURCHASE",
+      "endType": "CYCLES_COMPLETED",
+      "cyclesCompletedDetails": {
+       "billingCycleCount": "1"
+      }
+     },
+     "pricingStrategies": [
+      {
+       "flatRate": {
+        "amount": "0"
+       }
+      }
+     ],
+     "visible": true,
+     "categoryIds": []
+    }
+   ],
+   "perks": [
+    {
+     "id": "993fdd06-68f5-3da0-8ba8-21cd9ecb586b",
+     "description": "I'm a benefit"
+    },
+    {
+     "id": "739ba9a3-bacd-3a64-912f-d74cd6a773b8",
+     "description": "I'm a benefit"
+    }
+   ],
+   "visibility": "PUBLIC",
+   "buyable": true,
+   "status": "ACTIVE",
+   "buyerCanCancel": true,
+   "archived": false,
+   "primary": false,
+   "currency": "ILS",
+   "displayIndex": 1,
+   "purchaseLimits": [],
+   "benefitDistributionSettings": {
+    "distributionStrategyType": "PER_BILLING_CYCLE"
+   }
+  },
+  {
+   "id": "724db7f1-7b95-4eb9-b71f-3185ef126371",
+   "revision": "4",
+   "createdDate": "2024-11-06T13:13:26.560Z",
+   "updatedDate": "2026-06-02T16:44:03.737Z",
+   "name": "Standard",
+   "description": "Use this area to describe one of your memberships.",
+   "slug": "standard",
+   "termsAndConditions": "",
+   "maxPurchasesPerBuyer": 0,
+   "pricingVariants": [
+    {
+     "id": "724db7f1-7b95-4eb9-b71f-3185ef126371",
+     "name": "Standard",
+     "freeTrialDays": 0,
+     "fees": [],
+     "billingTerms": {
+      "billingCycle": {
+       "period": "MONTH",
+       "count": "1"
+      },
+      "startType": "ON_PURCHASE",
+      "endType": "CYCLES_COMPLETED",
+      "cyclesCompletedDetails": {
+       "billingCycleCount": "6"
+      }
+     },
+     "pricingStrategies": [
+      {
+       "flatRate": {
+        "amount": "30"
+       }
+      }
+     ],
+     "visible": true,
+     "categoryIds": []
+    }
+   ],
+   "perks": [
+    {
+     "id": "993fdd06-68f5-3da0-8ba8-21cd9ecb586b",
+     "description": "I'm a benefit"
+    },
+    {
+     "id": "739ba9a3-bacd-3a64-912f-d74cd6a773b8",
+     "description": "I'm a benefit"
+    },
+    {
+     "id": "8a6d7e1e-6a47-35f9-892f-fd6823e99b87",
+     "description": "I'm a benefit"
+    }
+   ],
+   "visibility": "PUBLIC",
+   "buyable": true,
+   "status": "ACTIVE",
+   "buyerCanCancel": true,
+   "archived": false,
+   "primary": false,
+   "currency": "ILS",
+   "displayIndex": 2,
+   "purchaseLimits": [],
+   "benefitDistributionSettings": {
+    "distributionStrategyType": "PER_BILLING_CYCLE"
+   }
+  },
+  {
+   "id": "bc60d612-e4d7-4e3d-864b-35f36c84f4f2",
+   "revision": "4",
+   "createdDate": "2024-11-06T13:13:26.714Z",
+   "updatedDate": "2026-06-02T18:11:37.021Z",
+   "name": "Premium",
+   "description": "Use this area to describe one of your memberships.",
+   "slug": "premium",
+   "termsAndConditions": "",
+   "maxPurchasesPerBuyer": 0,
+   "pricingVariants": [
+    {
+     "id": "bc60d612-e4d7-4e3d-864b-35f36c84f4f2",
+     "name": "Premium",
+     "freeTrialDays": 0,
+     "fees": [],
+     "billingTerms": {
+      "billingCycle": {
+       "period": "MONTH",
+       "count": "1"
+      },
+      "startType": "ON_PURCHASE",
+      "endType": "CYCLES_COMPLETED",
+      "cyclesCompletedDetails": {
+       "billingCycleCount": "12"
+      }
+     },
+     "pricingStrategies": [
+      {
+       "flatRate": {
+        "amount": "50"
+       }
+      }
+     ],
+     "visible": true,
+     "categoryIds": []
+    }
+   ],
+   "perks": [
+    {
+     "id": "993fdd06-68f5-3da0-8ba8-21cd9ecb586b",
+     "description": "I'm a benefit"
+    },
+    {
+     "id": "739ba9a3-bacd-3a64-912f-d74cd6a773b8",
+     "description": "I'm a benefit"
+    },
+    {
+     "id": "8a6d7e1e-6a47-35f9-892f-fd6823e99b87",
+     "description": "I'm a benefit"
+    },
+    {
+     "id": "80d71f3e-9956-3676-9abd-3ab645ba44e8",
+     "description": "I'm a benefit"
+    }
+   ],
+   "visibility": "PUBLIC",
+   "buyable": true,
+   "status": "ACTIVE",
+   "buyerCanCancel": true,
+   "archived": false,
+   "primary": false,
+   "currency": "ILS",
+   "displayIndex": 3,
+   "purchaseLimits": [],
+   "benefitDistributionSettings": {
+    "distributionStrategyType": "PER_BILLING_CYCLE"
+   }
+  }
+ ]
+}

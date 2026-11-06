@@ -1,0 +1,879 @@
+{
+ "source": "POST https://www.wixapis.com/events/v3/events/query (includeDrafts, fields DETAILS/REGISTRATION/URLS/CATEGORIES)",
+ "events": [
+  {
+   "id": "5f8ea4c5-46be-4817-a7db-ad39f4eedfd2",
+   "location": {
+    "name": "Zoom",
+    "type": "ONLINE",
+    "locationTbd": false
+   },
+   "dateAndTimeSettings": {
+    "dateAndTimeTbd": false,
+    "startDate": "2025-10-28T18:00:00Z",
+    "endDate": "2025-10-28T19:00:00Z",
+    "timeZoneId": "Asia/Jerusalem",
+    "hideEndDate": false,
+    "showTimeZone": false,
+    "recurrenceStatus": "ONE_TIME",
+    "recurringEvents": {
+     "individualEventDates": []
+    },
+    "formatted": {
+     "dateAndTime": "28 באוקטובר 2025, 20:00–21:00",
+     "startDate": "28 באוקטובר 2025",
+     "startTime": "20:00",
+     "endDate": "28 באוקטובר 2025",
+     "endTime": "21:00"
+    }
+   },
+   "title": "הרצאת אוקטוברI נשים עם הפרעת קשב ופעלתנות יתר, האם יש דבר כזה בכלל? ד״ר רוית גרומברג ורדי",
+   "shortDescription": "האם קיימים הבדלים בין ההפרעה בקרב נשים לעומת ההפרעה בקרב גברים?\nכיצד היא משפיעה על מרכיבי אישיות שונים? \nכיצד היא משפיעה על המערכת הזוגית?\nהאם יש מה לעשות?",
+   "detailedDescription": "",
+   "mainImage": {
+    "id": "781cf8_91f877db0d754298831c4e056d8a01e4~mv2.png",
+    "url": "https://static.wixstatic.com/media/781cf8_91f877db0d754298831c4e056d8a01e4~mv2.png",
+    "height": 1080,
+    "width": 1080
+   },
+   "slug": "hrzt-wqtwbri-nsym-m-hprt-qsb-wpltnwt-ytr-hm-ys-dbr-kzh-bkll-dr-rwyt-grwmbrg-wrdy",
+   "createdDate": "2025-09-13T15:06:52.431Z",
+   "updatedDate": "2025-10-15T09:18:14Z",
+   "status": "ENDED",
+   "registration": {
+    "type": "EXTERNAL",
+    "status": "CLOSED_AUTOMATICALLY",
+    "rsvp": {
+     "responseType": "YES_ONLY",
+     "waitlistEnabled": false,
+     "confirmationMessages": {
+      "positiveConfirmation": {
+       "title": "תודה!",
+       "message": "שלחנו אישור הזמנה עם פרטי האירוע למייל שלך.",
+       "addToCalendarActionLabel": "הוספה ליומן",
+       "shareActionLabel": "שיתוף"
+      },
+      "waitlistMessages": {
+       "title": "תודה! הוספנו אותך לרשימת ההמתנה.",
+       "message": "נעדכן אותך אם ייפתחו עוד מקומות.",
+       "addToCalendarActionLabel": "הוספה ליומן",
+       "shareActionLabel": "שיתוף"
+      },
+      "negativeMessages": {
+       "title": "Sorry You Can't Make It",
+       "shareActionLabel": "שיתוף"
+      }
+     }
+    },
+    "tickets": {
+     "guestsAssignedSeparately": false,
+     "ticketLimitPerOrder": 50,
+     "soldOut": true,
+     "reservationDurationInMinutes": 20,
+     "gracePeriodInMinutes": 120,
+     "confirmationMessages": {
+      "title": "Thank you, {Guest Name}",
+      "message": "הכול מוכן לאירוע {Event}. מייל אישור נשלח אל {Guest}.",
+      "downloadTicketsLabel": "Download Tickets",
+      "addToCalendarActionLabel": "הוספה ליומן",
+      "shareActionLabel": "שיתוף"
+     },
+     "checkoutType": "EVENTS_APP",
+     "additionalFees": []
+    },
+    "external": {
+     "url": "https://airtable.com/app85sfUVTraEhPQl/shrXR8RKlrqYAaUql"
+    },
+    "allowedGuestTypes": "VISITOR_OR_MEMBER",
+    "initialType": "RSVP",
+    "registrationPaused": false,
+    "registrationDisabled": false
+   },
+   "calendarUrls": {
+    "google": "http://calendar.google.com/calendar/render?action=TEMPLATE&text=%D7%94%D7%A8%D7%A6%D7%90%D7%AA+%D7%90%D7%95%D7%A7%D7%98%D7%95%D7%91%D7%A8I+%D7%A0%D7%A9%D7%99%D7%9D+%D7%A2%D7%9D+%D7%94%D7%A4%D7%A8%D7%A2%D7%AA+%D7%A7%D7%A9%D7%91+%D7%95%D7%A4%D7%A2%D7%9C%D7%AA%D7%A0%D7%95%D7%AA+%D7%99%D7%AA%D7%A8%2C+%D7%94%D7%90%D7%9D+%D7%99%D7%A9+%D7%93%D7%91%D7%A8+%D7%9B%D7%96%D7%94+%D7%91%D7%9B%D7%9C%D7%9C%3F+%D7%93%D7%B4%D7%A8+%D7%A8%D7%95%D7%99%D7%AA+%D7%92%D7%A8%D7%95%D7%9E%D7%91%D7%A8%D7%92+%D7%95%D7%A8%D7%93%D7%99&dates=20251028T180000Z%2F20251028T190000Z&location=",
+    "ics": "https://www.wixevents.com/media/v2/calendar?token=JWS.eyJraWQiOiJpb21iOUJ0eSIsImFsZyI6IkhTMjU2In0.eyJkYXRhIjoie1wiaW5zdGFuY2VJZFwiOlwiMDM2MzJhMDgtOWI1YS00ZGY0LTlmOGEtNTYzMDcyM2IzNDQ2XCIsXCJldmVudElkXCI6e1widmFsdWVcIjpcIjVmOGVhNGM1LTQ2YmUtNDgxNy1hN2RiLWFkMzlmNGVlZGZkMlwifSxcIm9jTGlua1wiOm51bGx9IiwiaWF0IjoxNzkzOTc0NDEwfQ.69SzU11kiKk4U6sgEztZwasZAxsw1-Cu7jcdsT8Aw7s"
+   },
+   "eventPageUrl": {
+    "base": "https://www.adhdotech.org",
+    "path": "/event-details/hrzt-wqtwbri-nsym-m-hprt-qsb-wpltnwt-ytr-hm-ys-dbr-kzh-bkll-dr-rwyt-grwmbrg-wrdy"
+   },
+   "instanceId": "03632a08-9b5a-4df4-9f8a-5630723b3446",
+   "guestListSettings": {
+    "displayedPublicly": true
+   },
+   "userId": "781cf863-32b8-45b1-a533-8d97675ce652",
+   "onlineConferencing": {
+    "enabled": false,
+    "providerName": "",
+    "type": "UNKNOWN_CONFERENCE_TYPE"
+   },
+   "contactLabel": "custom.hrzt-wqtwbri-nsym-m-hprt-qsb-wpltnwt-ytr-hm-ys-dbr",
+   "eventDisplaySettings": {
+    "hideEventDetailsButton": false,
+    "hideEventDetailsPage": false
+   },
+   "labellingSettings": {
+    "assignedContactsLabelDeleted": false
+   },
+   "publishedDate": "2025-09-13T15:06:58.591Z"
+  },
+  {
+   "id": "46580e40-04e6-493e-8dda-033538134903",
+   "location": {
+    "name": "zoom",
+    "type": "ONLINE",
+    "locationTbd": false
+   },
+   "dateAndTimeSettings": {
+    "dateAndTimeTbd": false,
+    "startDate": "2025-09-16T17:00:00Z",
+    "endDate": "2025-09-16T18:00:00.950Z",
+    "timeZoneId": "Asia/Jerusalem",
+    "hideEndDate": false,
+    "showTimeZone": false,
+    "recurrenceStatus": "ONE_TIME",
+    "recurringEvents": {
+     "individualEventDates": []
+    },
+    "formatted": {
+     "dateAndTime": "16 בספטמבר 2025, 20:00–21:00",
+     "startDate": "16 בספטמבר 2025",
+     "startTime": "20:00",
+     "endDate": "16 בספטמבר 2025",
+     "endTime": "21:00"
+    }
+   },
+   "title": "נשים עם הפרעת קשב ופעלתנות יתר | הרצאת ספטמבר האם יש דבר כזה בכלל? ד״ר רוית גרומברג ורד",
+   "shortDescription": "האם קיימים הבדלים בין ההפרעה בקרב נשים לעומת ההפרעה בקרב גברים?\nכיצד היא משפיעה על מרכיבי אישיות שונים? \nכיצד היא משפיעה על המערכת הזוגית?\nהאם יש מה לעשות?\n\nבואו לשמוע הרצאה מפי ד״ר רוית גרומברג ורדי  \nמאמנת אישית לאנשי קשב ויועצת זוגית לזוגות עם הפרעת קשב. בנוסף, בעלת תואר ראשון, שני ושלישי בחינוך ",
+   "detailedDescription": "",
+   "mainImage": {
+    "id": "781cf8_7450aa628af54ce6a7eced488240343e~mv2.png",
+    "url": "https://static.wixstatic.com/media/781cf8_7450aa628af54ce6a7eced488240343e~mv2.png",
+    "height": 1080,
+    "width": 1080
+   },
+   "slug": "nsym-m-hprt-qsb-wpltnwt-ytr-hrzt-sptmbr-hm-ys-dbr-kzh-bkll-dr-rwyt-grwmbrg-wrd",
+   "createdDate": "2025-09-01T14:05:36.057Z",
+   "updatedDate": "2025-09-08T13:12:50Z",
+   "status": "CANCELED",
+   "registration": {
+    "type": "TICKETING",
+    "status": "CLOSED_AUTOMATICALLY",
+    "rsvp": {
+     "responseType": "YES_ONLY",
+     "waitlistEnabled": false,
+     "confirmationMessages": {
+      "positiveConfirmation": {
+       "title": "תודה!",
+       "message": "שלחנו אישור הזמנה עם פרטי האירוע למייל שלך.",
+       "addToCalendarActionLabel": "הוספה ליומן",
+       "shareActionLabel": "שיתוף"
+      },
+      "waitlistMessages": {
+       "title": "תודה! הוספנו אותך לרשימת ההמתנה.",
+       "message": "נעדכן אותך אם ייפתחו עוד מקומות.",
+       "addToCalendarActionLabel": "הוספה ליומן",
+       "shareActionLabel": "שיתוף"
+      },
+      "negativeMessages": {
+       "title": "Sorry You Can't Make It",
+       "shareActionLabel": "שיתוף"
+      }
+     }
+    },
+    "tickets": {
+     "guestsAssignedSeparately": false,
+     "ticketLimitPerOrder": 50,
+     "currency": "ILS",
+     "soldOut": true,
+     "reservationDurationInMinutes": 20,
+     "gracePeriodInMinutes": 120,
+     "confirmationMessages": {
+      "title": "Thank you, {Guest Name}",
+      "message": "הכול מוכן לאירוע {Event}. מייל אישור נשלח אל {Guest}.",
+      "downloadTicketsLabel": "Download Tickets",
+      "addToCalendarActionLabel": "הוספה ליומן",
+      "shareActionLabel": "שיתוף"
+     },
+     "checkoutType": "EVENTS_APP",
+     "additionalFees": []
+    },
+    "allowedGuestTypes": "VISITOR_OR_MEMBER",
+    "initialType": "TICKETING",
+    "registrationPaused": false,
+    "registrationDisabled": false
+   },
+   "calendarUrls": {
+    "google": "http://calendar.google.com/calendar/render?action=TEMPLATE&text=%D7%A0%D7%A9%D7%99%D7%9D+%D7%A2%D7%9D+%D7%94%D7%A4%D7%A8%D7%A2%D7%AA+%D7%A7%D7%A9%D7%91+%D7%95%D7%A4%D7%A2%D7%9C%D7%AA%D7%A0%D7%95%D7%AA+%D7%99%D7%AA%D7%A8+%7C+%D7%94%D7%A8%D7%A6%D7%90%D7%AA+%D7%A1%D7%A4%D7%98%D7%9E%D7%91%D7%A8+%D7%94%D7%90%D7%9D+%D7%99%D7%A9+%D7%93%D7%91%D7%A8+%D7%9B%D7%96%D7%94+%D7%91%D7%9B%D7%9C%D7%9C%3F+%D7%93%D7%B4%D7%A8+%D7%A8%D7%95%D7%99%D7%AA+%D7%92%D7%A8%D7%95%D7%9E%D7%91%D7%A8%D7%92+%D7%95%D7%A8%D7%93&dates=20250916T170000Z%2F20250916T180000Z&location=&details=%D7%94%D7%90%D7%9D+%D7%A7%D7%99%D7%99%D7%9E%D7%99%D7%9D+%D7%94%D7%91%D7%93%D7%9C%D7%99%D7%9D+%D7%91%D7%99%D7%9F+%D7%94%D7%94%D7%A4%D7%A8%D7%A2%D7%94+%D7%91%D7%A7%D7%A8%D7%91+%D7%A0%D7%A9%D7%99%D7%9D+%D7%9C%D7%A2%D7%95%D7%9E%D7%AA+%D7%94%D7%94%D7%A4%D7%A8%D7%A2%D7%94+%D7%91%D7%A7%D7%A8%D7%91+%D7%92%D7%91%D7%A8%D7%99%D7%9D%3F%0A%D7%9B%D7%99%D7%A6%D7%93+%D7%94%D7%99%D7%90+%D7%9E%D7%A9%D7%A4%D7%99%D7%A2%D7%94+%D7%A2%D7%9C+%D7%9E%D7%A8%D7%9B%D7%99%D7%91%D7%99+%D7%90%D7%99%D7%A9%D7%99%D7%95%D7%AA+%D7%A9%D7%95%D7%A0%D7%99%D7%9D%3F+%0A%D7%9B%D7%99%D7%A6%D7%93+%D7%94%D7%99%D7%90+%D7%9E%D7%A9%D7%A4%D7%99%D7%A2%D7%94+%D7%A2%D7%9C+%D7%94%D7%9E%D7%A2%D7%A8%D7%9B%D7%AA+%D7%94%D7%96%D7%95%D7%92%D7%99%D7%AA%3F%0A%D7%94%D7%90%D7%9D+%D7%99%D7%A9+%D7%9E%D7%94+%D7%9C%D7%A2%D7%A9%D7%95%D7%AA%3F%0A%0A%D7%91%D7%95%D7%90%D7%95+%D7%9C%D7%A9%D7%9E%D7%95%D7%A2+%D7%94%D7%A8%D7%A6%D7%90%D7%94+%D7%9E%D7%A4%D7%99+%D7%93%D7%B4%D7%A8+%D7%A8%D7%95%D7%99%D7%AA+%D7%92%D7%A8%D7%95%D7%9E%D7%91%D7%A8%D7%92+%D7%95%D7%A8%D7%93%D7%99++%0A%D7%9E%D7%90%D7%9E%D7%A0%D7%AA+%D7%90%D7%99%D7%A9%D7%99%D7%AA+%D7%9C%D7%90%D7%A0%D7%A9%D7%99+%D7%A7%D7%A9%D7%91+%D7%95%D7%99%D7%95%D7%A2%D7%A6%D7%AA+%D7%96%D7%95%D7%92%D7%99%D7%AA+%D7%9C%D7%96%D7%95%D7%92%D7%95%D7%AA+%D7%A2%D7%9D+%D7%94%D7%A4%D7%A8%D7%A2%D7%AA+%D7%A7%D7%A9%D7%91.+%D7%91%D7%A0%D7%95%D7%A1%D7%A3%2C+%D7%91%D7%A2%D7%9C%D7%AA+%D7%AA%D7%95%D7%90%D7%A8+%D7%A8%D7%90%D7%A9%D7%95%D7%9F%2C+%D7%A9%D7%A0%D7%99+%D7%95%D7%A9%D7%9C%D7%99%D7%A9%D7%99+%D7%91%D7%97%D7%99%D7%A0%D7%95%D7%9A%3Cbr%3E%3Cbr%3E%D7%A0%D7%A9%D7%99%D7%9D+%D7%A2%D7%9D+%D7%94%D7%A4%D7%A8%D7%A2%D7%AA+%D7%A7%D7%A9%D7%91+%D7%95%D7%A4%D7%A2%D7%9C%D7%AA%D7%A0%D7%95%D7%AA+%D7%99%D7%AA%D7%A8+%7C+%D7%94%D7%A8%D7%A6%D7%90%D7%AA+%D7%A1%D7%A4%D7%98%D7%9E%D7%91%D7%A8+%D7%94%D7%90%D7%9D+%D7%99%D7%A9+%D7%93%D7%91%D7%A8+%D7%9B%D7%96%D7%94+%D7%91%D7%9B%D7%9C%D7%9C%3F+%D7%93%D7%B4%D7%A8+%D7%A8%D7%95%D7%99%D7%AA+%D7%92%D7%A8%D7%95%D7%9E%D7%91%D7%A8%D7%92+%D7%95%D7%A8%D7%93%0A16+%D7%91%D7%A1%D7%A4%D7%98%D7%9E%D7%91%D7%A8+2025%2C+20%3A00%E2%80%9321%3A00%0Azoom",
+    "ics": "https://www.wixevents.com/media/v2/calendar?token=JWS.eyJraWQiOiJpb21iOUJ0eSIsImFsZyI6IkhTMjU2In0.eyJkYXRhIjoie1wiaW5zdGFuY2VJZFwiOlwiMDM2MzJhMDgtOWI1YS00ZGY0LTlmOGEtNTYzMDcyM2IzNDQ2XCIsXCJldmVudElkXCI6e1widmFsdWVcIjpcIjQ2NTgwZTQwLTA0ZTYtNDkzZS04ZGRhLTAzMzUzODEzNDkwM1wifSxcIm9jTGlua1wiOm51bGx9IiwiaWF0IjoxNzkzOTc0NDEwfQ.OzRzKdVUr7v6gVzX6XtGkgN4-kanvwCE4MWzl7QtFSU"
+   },
+   "eventPageUrl": {
+    "base": "https://www.adhdotech.org",
+    "path": "/event-details/nsym-m-hprt-qsb-wpltnwt-ytr-hrzt-sptmbr-hm-ys-dbr-kzh-bkll-dr-rwyt-grwmbrg-wrd"
+   },
+   "instanceId": "03632a08-9b5a-4df4-9f8a-5630723b3446",
+   "guestListSettings": {
+    "displayedPublicly": true
+   },
+   "userId": "781cf863-32b8-45b1-a533-8d97675ce652",
+   "onlineConferencing": {
+    "enabled": false,
+    "providerName": "",
+    "type": "UNKNOWN_CONFERENCE_TYPE"
+   },
+   "contactLabel": "custom.nsym-m-hprt-qsb-wpltnwt-ytr-hrzt-sptmbr-hm-ys-dbr-",
+   "eventDisplaySettings": {},
+   "labellingSettings": {
+    "assignedContactsLabelDeleted": false
+   },
+   "publishedDate": "2025-09-01T14:05:46.762Z"
+  },
+  {
+   "id": "c842eb7f-0ea9-44dc-99dd-0ff84eb0e189",
+   "location": {
+    "name": "Zoom Lecture",
+    "type": "ONLINE",
+    "locationTbd": false
+   },
+   "dateAndTimeSettings": {
+    "dateAndTimeTbd": false,
+    "startDate": "2025-07-16T17:30:00Z",
+    "endDate": "2025-07-16T18:30:00.028Z",
+    "timeZoneId": "Asia/Jerusalem",
+    "hideEndDate": false,
+    "showTimeZone": false,
+    "recurrenceStatus": "ONE_TIME",
+    "recurringEvents": {
+     "individualEventDates": []
+    },
+    "formatted": {
+     "dateAndTime": "16 ביולי 2025, 20:30–21:30",
+     "startDate": "16 ביולי 2025",
+     "startTime": "20:30",
+     "endDate": "16 ביולי 2025",
+     "endTime": "21:30"
+    }
+   },
+   "title": "הרצאת יוליI איך סטרס הורס לכם את הריכוז? נוהר אבלס וגת ברמי 'מרכז שלמים'",
+   "shortDescription": "עובדים עם הפרעת קשב מתמודדים עכשיו עם אתגר כפול:\n ✅ סטרס יומיומי רגיל מעבודה\n ✅ סטרס מתמשך מהמלחמה\nהתוצאה המוח תקוע במצב עוררות שגורם לו לא להצליח להתרכז במשימות רגילות, עייפות מנטלית קיצונית, להרגיש שאתם לא מתפקדים כמו פעם ועוד. תצטרפו אלינו להרצאה מרקת ללמוד מה כן ניתן לעשות!",
+   "detailedDescription": "",
+   "mainImage": {
+    "id": "8053f9_56e71256b4d243f1b2fe83258d6e5d67~mv2.png",
+    "url": "https://static.wixstatic.com/media/8053f9_56e71256b4d243f1b2fe83258d6e5d67~mv2.png",
+    "height": 1080,
+    "width": 1080
+   },
+   "slug": "hrzt-ywlyi-yk-strs-hwrs-lkm-t-hrykwz-nwhr-bls-wgt-brmy-mrkz-slmym",
+   "createdDate": "2025-06-30T20:55:38.241Z",
+   "updatedDate": "2025-07-02T14:32:43Z",
+   "status": "ENDED",
+   "registration": {
+    "type": "RSVP",
+    "status": "CLOSED_AUTOMATICALLY",
+    "rsvp": {
+     "responseType": "YES_ONLY",
+     "waitlistEnabled": false,
+     "confirmationMessages": {
+      "positiveConfirmation": {
+       "title": "תודה!",
+       "message": "שלחנו אישור הזמנה עם פרטי האירוע למייל שלך.",
+       "addToCalendarActionLabel": "הוספה ליומן",
+       "shareActionLabel": "שיתוף"
+      },
+      "waitlistMessages": {
+       "title": "תודה! הוספנו אותך לרשימת ההמתנה.",
+       "message": "נעדכן אותך אם ייפתחו עוד מקומות.",
+       "addToCalendarActionLabel": "הוספה ליומן",
+       "shareActionLabel": "שיתוף"
+      },
+      "negativeMessages": {
+       "title": "Sorry You Can't Make It",
+       "shareActionLabel": "שיתוף"
+      }
+     }
+    },
+    "tickets": {
+     "guestsAssignedSeparately": false,
+     "ticketLimitPerOrder": 50,
+     "soldOut": true,
+     "reservationDurationInMinutes": 20,
+     "gracePeriodInMinutes": 120,
+     "confirmationMessages": {
+      "title": "Thank you, {Guest Name}",
+      "message": "הכול מוכן לאירוע {Event}. מייל אישור נשלח אל {Guest}.",
+      "downloadTicketsLabel": "Download Tickets",
+      "addToCalendarActionLabel": "הוספה ליומן",
+      "shareActionLabel": "שיתוף"
+     },
+     "checkoutType": "EVENTS_APP",
+     "additionalFees": []
+    },
+    "allowedGuestTypes": "VISITOR_OR_MEMBER",
+    "initialType": "RSVP",
+    "registrationPaused": false,
+    "registrationDisabled": false
+   },
+   "calendarUrls": {
+    "google": "http://calendar.google.com/calendar/render?action=TEMPLATE&text=%D7%94%D7%A8%D7%A6%D7%90%D7%AA+%D7%99%D7%95%D7%9C%D7%99I+%D7%90%D7%99%D7%9A+%D7%A1%D7%98%D7%A8%D7%A1+%D7%94%D7%95%D7%A8%D7%A1+%D7%9C%D7%9B%D7%9D+%D7%90%D7%AA+%D7%94%D7%A8%D7%99%D7%9B%D7%95%D7%96%3F+%D7%A0%D7%95%D7%94%D7%A8+%D7%90%D7%91%D7%9C%D7%A1+%D7%95%D7%92%D7%AA+%D7%91%D7%A8%D7%9E%D7%99+%27%D7%9E%D7%A8%D7%9B%D7%96+%D7%A9%D7%9C%D7%9E%D7%99%D7%9D%27&dates=20250716T173000Z%2F20250716T183000Z&location=&details=%D7%A2%D7%95%D7%91%D7%93%D7%99%D7%9D+%D7%A2%D7%9D+%D7%94%D7%A4%D7%A8%D7%A2%D7%AA+%D7%A7%D7%A9%D7%91+%D7%9E%D7%AA%D7%9E%D7%95%D7%93%D7%93%D7%99%D7%9D+%D7%A2%D7%9B%D7%A9%D7%99%D7%95+%D7%A2%D7%9D+%D7%90%D7%AA%D7%92%D7%A8+%D7%9B%D7%A4%D7%95%D7%9C%3A%0A+%E2%9C%85+%D7%A1%D7%98%D7%A8%D7%A1+%D7%99%D7%95%D7%9E%D7%99%D7%95%D7%9E%D7%99+%D7%A8%D7%92%D7%99%D7%9C+%D7%9E%D7%A2%D7%91%D7%95%D7%93%D7%94%0A+%E2%9C%85+%D7%A1%D7%98%D7%A8%D7%A1+%D7%9E%D7%AA%D7%9E%D7%A9%D7%9A+%D7%9E%D7%94%D7%9E%D7%9C%D7%97%D7%9E%D7%94%0A%D7%94%D7%AA%D7%95%D7%A6%D7%90%D7%94+%D7%94%D7%9E%D7%95%D7%97+%D7%AA%D7%A7%D7%95%D7%A2+%D7%91%D7%9E%D7%A6%D7%91+%D7%A2%D7%95%D7%A8%D7%A8%D7%95%D7%AA+%D7%A9%D7%92%D7%95%D7%A8%D7%9D+%D7%9C%D7%95+%D7%9C%D7%90+%D7%9C%D7%94%D7%A6%D7%9C%D7%99%D7%97+%D7%9C%D7%94%D7%AA%D7%A8%D7%9B%D7%96+%D7%91%D7%9E%D7%A9%D7%99%D7%9E%D7%95%D7%AA+%D7%A8%D7%92%D7%99%D7%9C%D7%95%D7%AA%2C+%D7%A2%D7%99%D7%99%D7%A4%D7%95%D7%AA+%D7%9E%D7%A0%D7%98%D7%9C%D7%99%D7%AA+%D7%A7%D7%99%D7%A6%D7%95%D7%A0%D7%99%D7%AA%2C+%D7%9C%D7%94%D7%A8%D7%92%D7%99%D7%A9+%D7%A9%D7%90%D7%AA%D7%9D+%D7%9C%D7%90+%D7%9E%D7%AA%D7%A4%D7%A7%D7%93%D7%99%D7%9D+%D7%9B%D7%9E%D7%95+%D7%A4%D7%A2%D7%9D+%D7%95%D7%A2%D7%95%D7%93.+%D7%AA%D7%A6%D7%98%D7%A8%D7%A4%D7%95+%D7%90%D7%9C%D7%99%D7%A0%D7%95+%D7%9C%D7%94%D7%A8%D7%A6%D7%90%D7%94+%D7%9E%D7%A8%D7%A7%D7%AA+%D7%9C%D7%9C%D7%9E%D7%95%D7%93+%D7%9E%D7%94+%D7%9B%D7%9F+%D7%A0%D7%99%D7%AA%D7%9F+%D7%9C%D7%A2%D7%A9%D7%95%D7%AA%21%3Cbr%3E%3Cbr%3E%D7%94%D7%A8%D7%A6%D7%90%D7%AA+%D7%99%D7%95%D7%9C%D7%99I+%D7%90%D7%99%D7%9A+%D7%A1%D7%98%D7%A8%D7%A1+%D7%94%D7%95%D7%A8%D7%A1+%D7%9C%D7%9B%D7%9D+%D7%90%D7%AA+%D7%94%D7%A8%D7%99%D7%9B%D7%95%D7%96%3F+%D7%A0%D7%95%D7%94%D7%A8+%D7%90%D7%91%D7%9C%D7%A1+%D7%95%D7%92%D7%AA+%D7%91%D7%A8%D7%9E%D7%99+%27%D7%9E%D7%A8%D7%9B%D7%96+%D7%A9%D7%9C%D7%9E%D7%99%D7%9D%27%0A16+%D7%91%D7%99%D7%95%D7%9C%D7%99+2025%2C+20%3A30%E2%80%9321%3A30%0AZoom+Lecture",
+    "ics": "https://www.wixevents.com/media/v2/calendar?token=JWS.eyJraWQiOiJpb21iOUJ0eSIsImFsZyI6IkhTMjU2In0.eyJkYXRhIjoie1wiaW5zdGFuY2VJZFwiOlwiMDM2MzJhMDgtOWI1YS00ZGY0LTlmOGEtNTYzMDcyM2IzNDQ2XCIsXCJldmVudElkXCI6e1widmFsdWVcIjpcImM4NDJlYjdmLTBlYTktNDRkYy05OWRkLTBmZjg0ZWIwZTE4OVwifSxcIm9jTGlua1wiOm51bGx9IiwiaWF0IjoxNzkzOTc0NDEwfQ.5HultCgSIoUSp_Z2K0DS-qXQbSokhP6d7FzXIC1D7Xg"
+   },
+   "eventPageUrl": {
+    "base": "https://www.adhdotech.org",
+    "path": "/event-details/hrzt-ywlyi-yk-strs-hwrs-lkm-t-hrykwz-nwhr-bls-wgt-brmy-mrkz-slmym"
+   },
+   "instanceId": "03632a08-9b5a-4df4-9f8a-5630723b3446",
+   "guestListSettings": {
+    "displayedPublicly": true
+   },
+   "userId": "8053f98b-8312-44e3-95f5-3e35db9a2569",
+   "onlineConferencing": {
+    "enabled": false,
+    "providerName": "",
+    "type": "UNKNOWN_CONFERENCE_TYPE"
+   },
+   "contactLabel": "custom.hrzt-ywlyi-yk-strs-hwrs-lkm-t-hrykwz-nwhr-bls-wgt-",
+   "eventDisplaySettings": {
+    "hideEventDetailsButton": false,
+    "hideEventDetailsPage": false
+   },
+   "labellingSettings": {
+    "assignedContactsLabelDeleted": false
+   },
+   "publishedDate": "2025-06-30T21:01:22.957Z"
+  },
+  {
+   "id": "85ba3818-1733-4c1e-9b26-9f0b07357807",
+   "location": {
+    "name": "רחל כהן מנירום",
+    "type": "ONLINE",
+    "locationTbd": false
+   },
+   "dateAndTimeSettings": {
+    "dateAndTimeTbd": false,
+    "startDate": "2025-06-17T17:00:00Z",
+    "endDate": "2025-06-17T18:00:00.878Z",
+    "timeZoneId": "Asia/Jerusalem",
+    "hideEndDate": false,
+    "showTimeZone": false,
+    "recurrenceStatus": "ONE_TIME",
+    "recurringEvents": {
+     "individualEventDates": []
+    },
+    "formatted": {
+     "dateAndTime": "17 ביוני 2025, 20:00–21:00",
+     "startDate": "17 ביוני 2025",
+     "startTime": "20:00",
+     "endDate": "17 ביוני 2025",
+     "endTime": "21:00"
+    }
+   },
+   "title": "תקשיבו רגע - הפרעת קשב אצל נשים",
+   "shortDescription": "פרעת קשב אצל נשים מוכרת- ועדיין לא מדברים על זה מספיק. \nהיא יכולה להסתתר מאחורי תפקוד גבוה, חיוך מנומס או ריצוי אינסופי.\nאבל מבפנים? עומס, הצפה, פער בין פוטנציאל למציאות – והתחושה ש”משהו לא בסדר אצלי\". ",
+   "detailedDescription": "",
+   "mainImage": {
+    "id": "fda54b_46b2c3f668b0489798c7bfdfedab4678~mv2.png",
+    "url": "https://static.wixstatic.com/media/fda54b_46b2c3f668b0489798c7bfdfedab4678~mv2.png",
+    "height": 1080,
+    "width": 1080
+   },
+   "slug": "tqsybw-rg-hprt-qsb-zl-nsym",
+   "createdDate": "2025-05-27T21:29:39.831Z",
+   "updatedDate": "2025-05-29T20:39:11Z",
+   "status": "ENDED",
+   "registration": {
+    "type": "EXTERNAL",
+    "status": "CLOSED_AUTOMATICALLY",
+    "rsvp": {
+     "responseType": "YES_ONLY",
+     "waitlistEnabled": false,
+     "confirmationMessages": {
+      "positiveConfirmation": {
+       "title": "תודה!",
+       "message": " אישור הזמנה עם פרטי האירוע וקישור לזום ישלח למייל שלך לקראת האירוע",
+       "addToCalendarActionLabel": "הוספה ליומן",
+       "shareActionLabel": "שיתוף"
+      },
+      "waitlistMessages": {
+       "title": "תודה! הוספנו אותך לרשימת ההמתנה.",
+       "message": "נעדכן אותך אם ייפתחו עוד מקומות.",
+       "addToCalendarActionLabel": "הוספה ליומן",
+       "shareActionLabel": "שיתוף"
+      },
+      "negativeMessages": {
+       "title": "Sorry You Can't Make It",
+       "shareActionLabel": "שיתוף"
+      }
+     }
+    },
+    "tickets": {
+     "guestsAssignedSeparately": false,
+     "ticketLimitPerOrder": 50,
+     "soldOut": true,
+     "reservationDurationInMinutes": 20,
+     "gracePeriodInMinutes": 120,
+     "confirmationMessages": {
+      "title": "Thank you, {Guest Name}",
+      "message": "הכול מוכן לאירוע {Event}. מייל אישור נשלח אל {Guest}.",
+      "downloadTicketsLabel": "Download Tickets",
+      "addToCalendarActionLabel": "הוספה ליומן",
+      "shareActionLabel": "שיתוף"
+     },
+     "checkoutType": "EVENTS_APP",
+     "additionalFees": []
+    },
+    "external": {
+     "url": "https://airtable.com/app85sfUVTraEhPQl/shr02EVVfvWbWH2Su"
+    },
+    "allowedGuestTypes": "VISITOR_OR_MEMBER",
+    "initialType": "RSVP",
+    "registrationPaused": false,
+    "registrationDisabled": false
+   },
+   "calendarUrls": {
+    "google": "http://calendar.google.com/calendar/render?action=TEMPLATE&text=%D7%AA%D7%A7%D7%A9%D7%99%D7%91%D7%95+%D7%A8%D7%92%D7%A2+-+%D7%94%D7%A4%D7%A8%D7%A2%D7%AA+%D7%A7%D7%A9%D7%91+%D7%90%D7%A6%D7%9C+%D7%A0%D7%A9%D7%99%D7%9D&dates=20250617T170000Z%2F20250617T180000Z&location=",
+    "ics": "https://www.wixevents.com/media/v2/calendar?token=JWS.eyJraWQiOiJpb21iOUJ0eSIsImFsZyI6IkhTMjU2In0.eyJkYXRhIjoie1wiaW5zdGFuY2VJZFwiOlwiMDM2MzJhMDgtOWI1YS00ZGY0LTlmOGEtNTYzMDcyM2IzNDQ2XCIsXCJldmVudElkXCI6e1widmFsdWVcIjpcIjg1YmEzODE4LTE3MzMtNGMxZS05YjI2LTlmMGIwNzM1NzgwN1wifSxcIm9jTGlua1wiOm51bGx9IiwiaWF0IjoxNzkzOTc0NDEwfQ.9tsVTk2ZSJ6umi-BqS2UueRDfbFx7oEJsQ-kJRlSRl8"
+   },
+   "eventPageUrl": {
+    "base": "https://www.adhdotech.org",
+    "path": "/event-details/tqsybw-rg-hprt-qsb-zl-nsym"
+   },
+   "instanceId": "03632a08-9b5a-4df4-9f8a-5630723b3446",
+   "guestListSettings": {
+    "displayedPublicly": true
+   },
+   "userId": "fda54b0b-9c04-4542-b34c-4a3f1458023d",
+   "onlineConferencing": {
+    "enabled": false,
+    "providerName": "",
+    "type": "UNKNOWN_CONFERENCE_TYPE"
+   },
+   "contactLabel": "custom.tqsybw-rg-hprt-qsb-zl-nsym-6-17-25-8-00-pm",
+   "categories": {
+    "categories": [
+     {
+      "id": "048033c6-caa9-465d-826c-38fae5e08c95",
+      "name": "נשים",
+      "createdDate": "2025-05-27T21:19:15.693Z",
+      "hidden": false,
+      "type": "MANUAL"
+     },
+     {
+      "id": "1753bd35-0b35-4ad5-a19b-ae84536f5a1b",
+      "name": "תעסוקה",
+      "createdDate": "2025-05-27T21:20:50.218Z",
+      "hidden": false,
+      "type": "MANUAL"
+     },
+     {
+      "id": "a229441f-5c12-4065-992e-13187b514aa0",
+      "name": "מודעותֿ",
+      "createdDate": "2025-05-27T21:19:04.447Z",
+      "hidden": false,
+      "type": "MANUAL"
+     }
+    ]
+   },
+   "eventDisplaySettings": {
+    "hideEventDetailsButton": false,
+    "hideEventDetailsPage": false
+   },
+   "labellingSettings": {
+    "assignedContactsLabelDeleted": false
+   },
+   "publishedDate": "2025-05-27T21:30:02.092Z"
+  },
+  {
+   "id": "6e6985f7-e3fe-407d-9797-2e81367dc6a3",
+   "location": {
+    "name": "Zoom",
+    "type": "ONLINE",
+    "locationTbd": false
+   },
+   "dateAndTimeSettings": {
+    "dateAndTimeTbd": false,
+    "startDate": "2025-03-19T18:30:00Z",
+    "endDate": "2025-03-19T19:30:00.774Z",
+    "timeZoneId": "Asia/Jerusalem",
+    "hideEndDate": false,
+    "showTimeZone": false,
+    "recurrenceStatus": "ONE_TIME",
+    "recurringEvents": {
+     "individualEventDates": []
+    },
+    "formatted": {
+     "dateAndTime": "19 במרץ 2025, 20:30–21:30",
+     "startDate": "19 במרץ 2025",
+     "startTime": "20:30",
+     "endDate": "19 במרץ 2025",
+     "endTime": "21:30"
+    }
+   },
+   "title": "טיפול קוגפן, איך זה עובד ואיך זה ישנה את איכות החיים שלך.",
+   "shortDescription": "בואו לגלות את גישת CogFun, טיפול מבוסס מחקר שמעניק לכם את הכלים לנהל את הפרעת הקשב שלכם במקום שהיא תנהל אתכם.",
+   "detailedDescription": "",
+   "mainImage": {
+    "id": "fda54b_fb361f15332440dabd76baf8717dd561~mv2.png",
+    "url": "https://static.wixstatic.com/media/fda54b_fb361f15332440dabd76baf8717dd561~mv2.png",
+    "height": 1080,
+    "width": 1080
+   },
+   "slug": "typwl-qwgpn-yk-zh-wbd-wyk-zh-ysnh-t-ykwt-hhyym-slk",
+   "createdDate": "2025-02-01T10:45:53.446Z",
+   "updatedDate": "2025-02-03T06:19:55Z",
+   "status": "ENDED",
+   "registration": {
+    "type": "EXTERNAL",
+    "status": "CLOSED_AUTOMATICALLY",
+    "rsvp": {
+     "responseType": "YES_ONLY",
+     "waitlistEnabled": false,
+     "confirmationMessages": {
+      "positiveConfirmation": {
+       "title": "Thank you!",
+       "message": "An email with all the event info will be sent to you shortly before the event ",
+       "addToCalendarActionLabel": "Add to Calendar",
+       "shareActionLabel": "Share"
+      },
+      "waitlistMessages": {
+       "title": "Thanks! You've been added to the waitlist.",
+       "message": "We'll update you if additional spots become available.",
+       "addToCalendarActionLabel": "Add to Calendar",
+       "shareActionLabel": "Share"
+      },
+      "negativeMessages": {
+       "title": "Sorry You Can't Make It",
+       "shareActionLabel": "Share"
+      }
+     }
+    },
+    "tickets": {
+     "guestsAssignedSeparately": false,
+     "ticketLimitPerOrder": 50,
+     "soldOut": true,
+     "reservationDurationInMinutes": 20,
+     "gracePeriodInMinutes": 120,
+     "confirmationMessages": {
+      "title": "Thank you, {Guest Name}",
+      "message": "You’re all set for {Event Name}. A confirmation email was sent to {Guest Email}.",
+      "downloadTicketsLabel": "Download Tickets",
+      "addToCalendarActionLabel": "Add to Calendar",
+      "shareActionLabel": "Share"
+     },
+     "checkoutType": "EVENTS_APP",
+     "additionalFees": []
+    },
+    "external": {
+     "url": "https://airtable.com/app85sfUVTraEhPQl/shrXhrF4Hlf1FkpH6"
+    },
+    "allowedGuestTypes": "VISITOR_OR_MEMBER",
+    "initialType": "RSVP",
+    "registrationPaused": false,
+    "registrationDisabled": false
+   },
+   "calendarUrls": {
+    "google": "http://calendar.google.com/calendar/render?action=TEMPLATE&text=%D7%98%D7%99%D7%A4%D7%95%D7%9C+%D7%A7%D7%95%D7%92%D7%A4%D7%9F%2C+%D7%90%D7%99%D7%9A+%D7%96%D7%94+%D7%A2%D7%95%D7%91%D7%93+%D7%95%D7%90%D7%99%D7%9A+%D7%96%D7%94+%D7%99%D7%A9%D7%A0%D7%94+%D7%90%D7%AA+%D7%90%D7%99%D7%9B%D7%95%D7%AA+%D7%94%D7%97%D7%99%D7%99%D7%9D+%D7%A9%D7%9C%D7%9A.&dates=20250319T183000Z%2F20250319T193000Z&location=",
+    "ics": "https://www.wixevents.com/media/v2/calendar?token=JWS.eyJraWQiOiJpb21iOUJ0eSIsImFsZyI6IkhTMjU2In0.eyJkYXRhIjoie1wiaW5zdGFuY2VJZFwiOlwiMDM2MzJhMDgtOWI1YS00ZGY0LTlmOGEtNTYzMDcyM2IzNDQ2XCIsXCJldmVudElkXCI6e1widmFsdWVcIjpcIjZlNjk4NWY3LWUzZmUtNDA3ZC05Nzk3LTJlODEzNjdkYzZhM1wifSxcIm9jTGlua1wiOm51bGx9IiwiaWF0IjoxNzkzOTc0NDEwfQ._n5uom1VgOz6EMjpcVKZCBc4YWpg_uW1fDE5OPsC2rA"
+   },
+   "eventPageUrl": {
+    "base": "https://www.adhdotech.org",
+    "path": "/event-details/typwl-qwgpn-yk-zh-wbd-wyk-zh-ysnh-t-ykwt-hhyym-slk"
+   },
+   "instanceId": "03632a08-9b5a-4df4-9f8a-5630723b3446",
+   "guestListSettings": {
+    "displayedPublicly": true
+   },
+   "userId": "fda54b0b-9c04-4542-b34c-4a3f1458023d",
+   "onlineConferencing": {
+    "enabled": false,
+    "providerName": "",
+    "type": "UNKNOWN_CONFERENCE_TYPE"
+   },
+   "contactLabel": "custom.typwl-cogfun-yk-zh-wbd-wyk-zh-ysnh-t-ykwt-hhyym-sl",
+   "categories": {
+    "categories": [
+     {
+      "id": "075f7133-5cb2-4791-b219-199801b5a265",
+      "name": "קוגפן",
+      "createdDate": "2025-02-01T10:29:48.563Z",
+      "hidden": false,
+      "type": "MANUAL"
+     },
+     {
+      "id": "6531c692-4c73-4025-8048-b91d84e9debe",
+      "name": "זיכרון",
+      "createdDate": "2025-01-30T20:21:14.866Z",
+      "hidden": false,
+      "type": "MANUAL"
+     },
+     {
+      "id": "94ae1750-d5e5-4350-83c0-5d5bcca0fc8d",
+      "name": "טיפול קוגנטיב",
+      "createdDate": "2025-02-01T10:40:24.300Z",
+      "hidden": false,
+      "type": "MANUAL"
+     }
+    ]
+   },
+   "eventDisplaySettings": {
+    "hideEventDetailsButton": false,
+    "hideEventDetailsPage": false
+   },
+   "labellingSettings": {
+    "assignedContactsLabelDeleted": false
+   }
+  },
+  {
+   "id": "ae538687-f613-4b0f-90ad-8d1c2b4c22c4",
+   "location": {
+    "name": "zoom",
+    "type": "ONLINE",
+    "locationTbd": false
+   },
+   "dateAndTimeSettings": {
+    "dateAndTimeTbd": false,
+    "startDate": "2025-02-24T18:00:00Z",
+    "endDate": "2025-02-24T19:00:00Z",
+    "timeZoneId": "Asia/Jerusalem",
+    "hideEndDate": false,
+    "showTimeZone": false,
+    "recurrenceStatus": "ONE_TIME",
+    "recurringEvents": {
+     "individualEventDates": []
+    },
+    "formatted": {
+     "dateAndTime": "24 בפברואר 2025, 20:00–21:00",
+     "startDate": "24 בפברואר 2025",
+     "startTime": "20:00",
+     "endDate": "24 בפברואר 2025",
+     "endTime": "21:00"
+    }
+   },
+   "title": " חסמים, פחדים ואיך מנהלים אותם",
+   "shortDescription": "חגית קליימן ממרכז צופן\nמאמנת מוסמכת ומתמחה באימון א.נשים עם הפרעת קשב ופעלתנות יתר\nנלמד איך להתמודד עם חסמים, תקיעויות ומחשבות שליליות באמצעות כלים מעולמות האימון, הפסיכו-דרמה ועוד\n\n24/02/2025 | 20:00",
+   "detailedDescription": "",
+   "mainImage": {
+    "id": "fda54b_f391684155b1484f80628327f43c6354~mv2.png",
+    "url": "https://static.wixstatic.com/media/fda54b_f391684155b1484f80628327f43c6354~mv2.png",
+    "height": 1080,
+    "width": 1080
+   },
+   "slug": "hsmym-phdym-wyk-mnhlym-wtm",
+   "createdDate": "2025-01-30T20:21:14.370Z",
+   "updatedDate": "2025-02-03T06:18:55Z",
+   "status": "ENDED",
+   "registration": {
+    "type": "EXTERNAL",
+    "status": "CLOSED_AUTOMATICALLY",
+    "rsvp": {
+     "responseType": "YES_ONLY",
+     "waitlistEnabled": false,
+     "confirmationMessages": {
+      "positiveConfirmation": {
+       "title": "Thank you!",
+       "message": "An email with all the event info will be sent to you shortly before the event ",
+       "addToCalendarActionLabel": "Add to Calendar",
+       "shareActionLabel": "Share"
+      },
+      "waitlistMessages": {
+       "title": "Thanks! You've been added to the waitlist.",
+       "message": "We'll update you if additional spots become available.",
+       "addToCalendarActionLabel": "Add to Calendar",
+       "shareActionLabel": "Share"
+      },
+      "negativeMessages": {
+       "title": "Sorry You Can't Make It",
+       "shareActionLabel": "Share"
+      }
+     }
+    },
+    "tickets": {
+     "guestsAssignedSeparately": false,
+     "ticketLimitPerOrder": 50,
+     "soldOut": true,
+     "reservationDurationInMinutes": 20,
+     "gracePeriodInMinutes": 120,
+     "confirmationMessages": {
+      "title": "Thank you, {Guest Name}",
+      "message": "You’re all set for {Event Name}. A confirmation email was sent to {Guest Email}.",
+      "downloadTicketsLabel": "Download Tickets",
+      "addToCalendarActionLabel": "Add to Calendar",
+      "shareActionLabel": "Share"
+     },
+     "checkoutType": "EVENTS_APP",
+     "additionalFees": []
+    },
+    "external": {
+     "url": "https://airtable.com/app85sfUVTraEhPQl/shrgdISeSQXJuBVj8"
+    },
+    "allowedGuestTypes": "VISITOR_OR_MEMBER",
+    "initialType": "RSVP",
+    "registrationPaused": false,
+    "registrationDisabled": false
+   },
+   "calendarUrls": {
+    "google": "http://calendar.google.com/calendar/render?action=TEMPLATE&text=+%D7%97%D7%A1%D7%9E%D7%99%D7%9D%2C+%D7%A4%D7%97%D7%93%D7%99%D7%9D+%D7%95%D7%90%D7%99%D7%9A+%D7%9E%D7%A0%D7%94%D7%9C%D7%99%D7%9D+%D7%90%D7%95%D7%AA%D7%9D&dates=20250224T180000Z%2F20250224T190000Z&location=",
+    "ics": "https://www.wixevents.com/media/v2/calendar?token=JWS.eyJraWQiOiJpb21iOUJ0eSIsImFsZyI6IkhTMjU2In0.eyJkYXRhIjoie1wiaW5zdGFuY2VJZFwiOlwiMDM2MzJhMDgtOWI1YS00ZGY0LTlmOGEtNTYzMDcyM2IzNDQ2XCIsXCJldmVudElkXCI6e1widmFsdWVcIjpcImFlNTM4Njg3LWY2MTMtNGIwZi05MGFkLThkMWMyYjRjMjJjNFwifSxcIm9jTGlua1wiOm51bGx9IiwiaWF0IjoxNzkzOTc0NDEwfQ.9qEki8qzGgnKM_kmXGpsvNCzZWsTbgGLbKHqSe_C4KM"
+   },
+   "eventPageUrl": {
+    "base": "https://www.adhdotech.org",
+    "path": "/event-details/hsmym-phdym-wyk-mnhlym-wtm"
+   },
+   "instanceId": "03632a08-9b5a-4df4-9f8a-5630723b3446",
+   "guestListSettings": {
+    "displayedPublicly": true
+   },
+   "userId": "fda54b0b-9c04-4542-b34c-4a3f1458023d",
+   "onlineConferencing": {
+    "enabled": false,
+    "providerName": "",
+    "type": "UNKNOWN_CONFERENCE_TYPE"
+   },
+   "contactLabel": "custom.hrzt-zwm-grst-yswp-myylym-2-14-25-7-00-pm",
+   "categories": {
+    "categories": [
+     {
+      "id": "0ab191ce-4623-4615-af6a-529f1595bb6b",
+      "name": "חרדות",
+      "createdDate": "2025-01-31T12:37:06.198Z",
+      "hidden": false,
+      "type": "MANUAL"
+     },
+     {
+      "id": "2f276eaa-7cf1-4171-a3c9-71121b9ccad0",
+      "name": "פחדים",
+      "createdDate": "2025-01-31T12:37:11.543Z",
+      "hidden": false,
+      "type": "MANUAL"
+     },
+     {
+      "id": "9cf1dcd9-1084-4772-b19d-0fc8178d767c",
+      "name": "חסמים",
+      "createdDate": "2025-01-31T12:37:23.312Z",
+      "hidden": false,
+      "type": "MANUAL"
+     }
+    ]
+   },
+   "eventDisplaySettings": {
+    "hideEventDetailsButton": false,
+    "hideEventDetailsPage": false
+   },
+   "labellingSettings": {
+    "assignedContactsLabelDeleted": false
+   }
+  },
+  {
+   "id": "2bf6cb19-72ca-4afd-99e1-b8941e7470b8",
+   "location": {
+    "name": "Zoom zoom ",
+    "type": "ONLINE",
+    "locationTbd": false
+   },
+   "dateAndTimeSettings": {
+    "dateAndTimeTbd": false,
+    "startDate": "2025-02-13T17:00:00Z",
+    "endDate": "2025-02-13T21:00:00Z",
+    "timeZoneId": "Asia/Jerusalem",
+    "hideEndDate": false,
+    "showTimeZone": false,
+    "recurrenceStatus": "ONE_TIME",
+    "recurringEvents": {
+     "individualEventDates": []
+    },
+    "formatted": {
+     "dateAndTime": "13 בפברואר 2025, 19:00–23:00",
+     "startDate": "13 בפברואר 2025",
+     "startTime": "19:00",
+     "endDate": "13 בפברואר 2025",
+     "endTime": "23:00"
+    }
+   },
+   "title": "בדיקה ",
+   "shortDescription": "בדיקה בדיקה ",
+   "detailedDescription": "",
+   "slug": "bdyqh",
+   "createdDate": "2025-01-30T20:18:51.929Z",
+   "updatedDate": "2025-01-31T12:34:44Z",
+   "status": "CANCELED",
+   "registration": {
+    "type": "TICKETING",
+    "status": "CLOSED_AUTOMATICALLY",
+    "rsvp": {
+     "responseType": "YES_ONLY",
+     "waitlistEnabled": false,
+     "confirmationMessages": {
+      "positiveConfirmation": {
+       "title": "Thank you!",
+       "message": "An email with all the event info was sent to you.",
+       "addToCalendarActionLabel": "Add to Calendar",
+       "shareActionLabel": "Share"
+      },
+      "waitlistMessages": {
+       "title": "Thanks! You've been added to the waitlist.",
+       "message": "We'll update you if additional spots become available.",
+       "addToCalendarActionLabel": "Add to Calendar",
+       "shareActionLabel": "Share"
+      },
+      "negativeMessages": {
+       "title": "Sorry You Can't Make It",
+       "shareActionLabel": "Share"
+      }
+     }
+    },
+    "tickets": {
+     "guestsAssignedSeparately": false,
+     "ticketLimitPerOrder": 50,
+     "reservationDurationInMinutes": 20,
+     "gracePeriodInMinutes": 120,
+     "confirmationMessages": {
+      "title": "Thank you, {Guest Name}",
+      "message": "You’re all set for {Event Name}. A confirmation email was sent to {Guest Email}.",
+      "downloadTicketsLabel": "Download Tickets",
+      "addToCalendarActionLabel": "Add to Calendar",
+      "shareActionLabel": "Share"
+     },
+     "checkoutType": "EVENTS_APP",
+     "additionalFees": []
+    },
+    "allowedGuestTypes": "VISITOR_OR_MEMBER",
+    "initialType": "TICKETING",
+    "registrationPaused": false,
+    "registrationDisabled": false
+   },
+   "calendarUrls": {
+    "google": "http://calendar.google.com/calendar/render?action=TEMPLATE&text=%D7%91%D7%93%D7%99%D7%A7%D7%94+&dates=20250213T170000Z%2F20250213T210000Z&location=&details=%D7%91%D7%93%D7%99%D7%A7%D7%94+%D7%91%D7%93%D7%99%D7%A7%D7%94%3Cbr%3E%3Cbr%3E%D7%91%D7%93%D7%99%D7%A7%D7%94+%0A13+%D7%91%D7%A4%D7%91%D7%A8%D7%95%D7%90%D7%A8+2025%2C+19%3A00%E2%80%9323%3A00%0AZoom+zoom",
+    "ics": "https://www.wixevents.com/media/v2/calendar?token=JWS.eyJraWQiOiJpb21iOUJ0eSIsImFsZyI6IkhTMjU2In0.eyJkYXRhIjoie1wiaW5zdGFuY2VJZFwiOlwiMDM2MzJhMDgtOWI1YS00ZGY0LTlmOGEtNTYzMDcyM2IzNDQ2XCIsXCJldmVudElkXCI6e1widmFsdWVcIjpcIjJiZjZjYjE5LTcyY2EtNGFmZC05OWUxLWI4OTQxZTc0NzBiOFwifSxcIm9jTGlua1wiOm51bGx9IiwiaWF0IjoxNzkzOTc0NDEwfQ.447Pf6-gwanw6G5OpdV_A8xqIiT-ALLwIfGSebQvBsM"
+   },
+   "eventPageUrl": {
+    "base": "https://www.adhdotech.org",
+    "path": "/event-details/bdyqh"
+   },
+   "instanceId": "03632a08-9b5a-4df4-9f8a-5630723b3446",
+   "guestListSettings": {
+    "displayedPublicly": true
+   },
+   "userId": "fda54b0b-9c04-4542-b34c-4a3f1458023d",
+   "onlineConferencing": {
+    "enabled": false,
+    "providerName": "",
+    "type": "UNKNOWN_CONFERENCE_TYPE"
+   },
+   "contactLabel": "custom.bdyqh-2-13-25-7-00-pm",
+   "categories": {
+    "categories": [
+     {
+      "id": "b38c57b9-35c5-4975-9a29-376b3790c5db",
+      "name": "ניהול זמן",
+      "createdDate": "2025-01-30T20:18:52.492Z",
+      "hidden": false,
+      "type": "MANUAL"
+     }
+    ]
+   },
+   "eventDisplaySettings": {},
+   "labellingSettings": {
+    "assignedContactsLabelDeleted": false
+   }
+  }
+ ]
+}

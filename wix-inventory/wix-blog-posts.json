@@ -1,0 +1,1543 @@
+{
+ "source": "POST https://www.wixapis.com/blog/v3/posts/query (fieldsets URL,SEO) + language=en query + POST /blog/v3/draft-posts/query",
+ "publishedPosts": [
+  {
+   "id": "6c7e8c60-d915-4cfb-b205-282f21d4fca9",
+   "title": "תמיכה בהייטק דרך עמותת ADHDoTECH",
+   "excerpt": "בעולם ההייטק, שבו הקצב מהיר והדרישות גבוהות, יש מקום מיוחד לאנשים עם ADHD. לא מדובר רק באתגרים, אלא גם בכישרונות ייחודיים שיכולים להוביל להצלחה יוצאת דופן. כאן נכנס לתמונה adhdotech  - פלטפורמה שמבינה את הצרכים המיוחדים של אנשים עם ADHD ומציעה תמיכה מקצועית שמותאמת בדיוק להם. בואו נצלול לעומק ונראה איך אפשר לשלב בין עולם ההייטק לבין תמיכה אמיתית ומעשית. סיוע מקצועי adhdotech: למה זה כל כך חשוב? כשאנחנו מדברים על סיוע מקצועי, אנחנו לא מתכוונים רק לייעוץ כללי או הדרכה טכנית. מדובר בתמיכה...",
+   "firstPublishedDate": "2026-03-30T05:09:59.603Z",
+   "lastPublishedDate": "2026-03-30T05:09:59.603Z",
+   "url": {
+    "base": "https://www.adhdotech.org",
+    "path": "/post/תמיכה-בהייטק-דרך-עמותת-adhdotech"
+   },
+   "slug": "תמיכה-בהייטק-דרך-עמותת-adhdotech",
+   "featured": false,
+   "pinned": false,
+   "categoryIds": [],
+   "memberId": "fda54b0b-9c04-4542-b34c-4a3f1458023d",
+   "hashtags": [],
+   "commentingEnabled": true,
+   "minutesToRead": 3,
+   "tagIds": [],
+   "relatedPostIds": [],
+   "pricingPlanIds": [],
+   "language": "he",
+   "seoData": {
+    "tags": [],
+    "settings": {
+     "preventAutoRedirect": false,
+     "keywords": []
+    }
+   },
+   "preview": false,
+   "contentId": "69ca05a78bb7e54baa6b665e",
+   "mostRecentContributorId": "4f80ff86-2bd0-489a-9d21-cbcda228a694",
+   "media": {
+    "wixMedia": {
+     "image": {
+      "id": "fda54b_7219f8e2354d4ed19774b3a019d5f6fb~mv2.png",
+      "url": "https://static.wixstatic.com/media/fda54b_7219f8e2354d4ed19774b3a019d5f6fb~mv2.png",
+      "height": 768,
+      "width": 1344,
+      "filename": "-post-ai-image-2854.png"
+     }
+    },
+    "displayed": true,
+    "custom": false
+   },
+   "hasUnpublishedChanges": false,
+   "translations": [],
+   "customExcerpt": false,
+   "internalCategoryIds": [],
+   "internalRelatedPostIds": []
+  },
+  {
+   "id": "4639a1b1-a7dd-423a-838f-c11203bf4631",
+   "title": "כששנינו מוח־טורבו: לעבוד ולהוביל עם קשב בהיי־טק",
+   "excerpt": "שלוש דקות לדיילי: 08:57. הסלאק מזמזם, הטאבים מתרבים, הודעה מהגן קופצת בלי לבקש רשות. אני מעיפה מבט ברשימת המשימות ושולחת לשותפה: “היום-...",
+   "firstPublishedDate": "2025-10-14T17:23:03.516Z",
+   "lastPublishedDate": "2025-10-14T17:23:03.516Z",
+   "url": {
+    "base": "https://www.adhdotech.org",
+    "path": "/post/כששנינו-מוח-טורבו-לעבוד-ולהוביל-עם-קשב-בהיי-טק"
+   },
+   "slug": "כששנינו-מוח-טורבו-לעבוד-ולהוביל-עם-קשב-בהיי-טק",
+   "featured": false,
+   "pinned": false,
+   "categoryIds": [],
+   "memberId": "4f80ff86-2bd0-489a-9d21-cbcda228a694",
+   "hashtags": [],
+   "commentingEnabled": true,
+   "minutesToRead": 4,
+   "tagIds": [],
+   "relatedPostIds": [],
+   "pricingPlanIds": [],
+   "language": "he",
+   "seoData": {
+    "tags": [],
+    "settings": {
+     "preventAutoRedirect": false,
+     "keywords": []
+    }
+   },
+   "preview": false,
+   "contentId": "6908654e12b86a0f317cfc2f",
+   "mostRecentContributorId": "fda54b0b-9c04-4542-b34c-4a3f1458023d",
+   "media": {
+    "wixMedia": {
+     "image": {
+      "id": "781cf8_5724e7725c214bc099cc6a35363f4f95~mv2.png",
+      "url": "https://static.wixstatic.com/media/781cf8_5724e7725c214bc099cc6a35363f4f95~mv2.png",
+      "height": 1024,
+      "width": 1024,
+      "filename": "ChatGPT Image Oct 10, 2025, 11_40_36 AM.png"
+     }
+    },
+    "displayed": true,
+    "custom": false
+   },
+   "hasUnpublishedChanges": true,
+   "translations": [],
+   "customExcerpt": false,
+   "internalCategoryIds": [],
+   "internalRelatedPostIds": []
+  },
+  {
+   "id": "f92a54f0-2a0b-498a-89c9-5193dcf77c64",
+   "title": "מקסם את הפוטנציאל שלך בעזרת מנטור ADHD",
+   "excerpt": "כולנו מכירים את התחושה הזאת: המחשבות מתרוצצות, המשימות מצטברות, והקושי להישאר מרוכז מרגיש כמו קרב יומיומי. במיוחד כשמדובר ב-ADHD, האתגר...",
+   "firstPublishedDate": "2025-10-13T08:45:13.541Z",
+   "lastPublishedDate": "2025-10-13T08:51:24.061Z",
+   "url": {
+    "base": "https://www.adhdotech.org",
+    "path": "/post/מקסם-את-הריכוז-שלך-בעזרת-מנטור-adhd"
+   },
+   "slug": "מקסם-את-הריכוז-שלך-בעזרת-מנטור-adhd",
+   "featured": false,
+   "pinned": false,
+   "categoryIds": [],
+   "memberId": "fda54b0b-9c04-4542-b34c-4a3f1458023d",
+   "hashtags": [],
+   "commentingEnabled": true,
+   "minutesToRead": 3,
+   "tagIds": [],
+   "relatedPostIds": [],
+   "pricingPlanIds": [],
+   "translationId": "2f4207fc-e154-47c2-b166-b885307e98dd",
+   "language": "he",
+   "seoData": {
+    "tags": [
+     {
+      "type": "title",
+      "children": "תמיכה מנטורית לשיפור הקשב והריכוז",
+      "custom": false,
+      "disabled": false
+     },
+     {
+      "type": "meta",
+      "props": {
+       "name": "description",
+       "content": "גלה כיצד לתמוך ולשפר את יכולות הקשב והריכוז שלך בעזרת מנטור מקצועי."
+      },
+      "children": "",
+      "custom": false,
+      "disabled": false
+     }
+    ],
+    "settings": {
+     "preventAutoRedirect": false,
+     "keywords": [
+      {
+       "term": "שיפור הריכוז עם מנטור",
+       "isMain": true,
+       "origin": "marketing-persona"
+      }
+     ]
+    }
+   },
+   "preview": false,
+   "contentId": "68ecbd8cd9148378f5dbfe27",
+   "mostRecentContributorId": "fda54b0b-9c04-4542-b34c-4a3f1458023d",
+   "media": {
+    "wixMedia": {
+     "image": {
+      "id": "fda54b_9b6f6c5a7e374c4b8e4062971b2c0a03~mv2.png",
+      "url": "https://static.wixstatic.com/media/fda54b_9b6f6c5a7e374c4b8e4062971b2c0a03~mv2.png",
+      "height": 768,
+      "width": 1344,
+      "filename": "-post-ai-image-501.png"
+     }
+    },
+    "displayed": true,
+    "custom": false
+   },
+   "hasUnpublishedChanges": false,
+   "translations": [],
+   "customExcerpt": false,
+   "internalCategoryIds": [],
+   "internalRelatedPostIds": []
+  },
+  {
+   "id": "9bbb729d-973f-44cb-8c81-46b0436d6e38",
+   "title": "ADHD: לא רק של ילדים - איך זה משפיע עלינו בעבודה",
+   "excerpt": "8:40 בבוקר. התיק כבר סודר - התפרק - שוב סודר. על המסך אימייל פתוח, טיוטה שמחכה לסיום, ורעיון אחד דופק בדלת. הילדים על הראש ורגע לפני שאני בולעת עוד לגימה של קפה, אני עוצרת. זה לא רק “עוד יום עמוס”. זה המוח הקשבי שלי חי ובועט, הצצה רגעית בסרט פעולה: מחשבות נודדות, התלהבות נדלקת, ופתאום היפר-פוקוס חד כמו לייזר. קל להחליק לסטיגמות, קל לשפוט - אבל כשמרחיבים את הפריים רואים את התמונה השלמה: מדע, אנושיות, וחיים שלמים שמתנהלים כך. מוח קשבי איננו “בעיה לתיקון” אלא מנוע שדורש מסילות פשוטות: שפה, שגרות...",
+   "firstPublishedDate": "2025-09-07T13:42:02.960Z",
+   "lastPublishedDate": "2025-10-10T09:55:36.096Z",
+   "url": {
+    "base": "https://www.adhdotech.org",
+    "path": "/post/להבין-את-התסמינים-של-adhdמעבר-לסטריאוטיפים-ולאורך-מעגל-החיים"
+   },
+   "slug": "להבין-את-התסמינים-של-adhdמעבר-לסטריאוטיפים-ולאורך-מעגל-החיים",
+   "featured": false,
+   "pinned": false,
+   "categoryIds": [],
+   "memberId": "c6d3e66e-d4db-4fb7-8218-26474850506c",
+   "hashtags": [],
+   "commentingEnabled": true,
+   "minutesToRead": 5,
+   "tagIds": [],
+   "relatedPostIds": [],
+   "pricingPlanIds": [],
+   "language": "he",
+   "seoData": {
+    "tags": [],
+    "settings": {
+     "preventAutoRedirect": false,
+     "keywords": []
+    }
+   },
+   "preview": false,
+   "contentId": "68e8d81851f676ec2abe2659",
+   "mostRecentContributorId": "4f80ff86-2bd0-489a-9d21-cbcda228a694",
+   "media": {
+    "wixMedia": {
+     "image": {
+      "id": "781cf8_af2cd12088574794a8210397ef8319bf~mv2.png",
+      "url": "https://static.wixstatic.com/media/781cf8_af2cd12088574794a8210397ef8319bf~mv2.png",
+      "height": 1024,
+      "width": 1536,
+      "filename": "ChatGPT Image Sep 7, 2025, 04_32_08 PM.png"
+     }
+    },
+    "displayed": true,
+    "custom": false
+   },
+   "hasUnpublishedChanges": false,
+   "translations": [],
+   "customExcerpt": false,
+   "internalCategoryIds": [],
+   "internalRelatedPostIds": []
+  },
+  {
+   "id": "cba8f2b2-f97e-4ee0-9694-d7a5b11905f6",
+   "title": "מהי הפרעת קשב (ADHD) ומה הקשר לקומורבידיות?",
+   "excerpt": "הקדמה אפשר לשמוע לעיתים קרובות את הטענה ש\"לכולם היום יש הפרעת קשב\". אנחנו חיים בסביבה מוצפת בהסחות דעת ויש תחרות גבוהה על הקשב של כולנו, שעלולה ליצור קשיי קשב. עם זאת, הפרעת קשב וריכוז (ADHD) היא הרבה יותר מרגע של הסחת דעת או קושי להתרכז. ההפרעה משפיעה על הדרך בה אנשים חושבים, מרגישים ופועלים [1] . לצד מאפיינים שמקנים יתרונות לאנשים עם ADHD, היא מוגדרת כהפרעה כיון שהיא מציבה אתגרים יום-יומיים, במיוחד בסביבות תובעניות כמו סביבת העבודה בכלל וההייטק בפרט. לעיתים קרובות היא מגיעה יחד עם אתגרים...",
+   "firstPublishedDate": "2025-07-02T14:38:23.592Z",
+   "lastPublishedDate": "2025-08-06T15:03:00.596Z",
+   "url": {
+    "base": "https://www.adhdotech.org",
+    "path": "/post/מהי-הפרעת-קשב-adhd-ומה-הקשר-לקומורבידיות"
+   },
+   "slug": "מהי-הפרעת-קשב-adhd-ומה-הקשר-לקומורבידיות",
+   "featured": false,
+   "pinned": false,
+   "categoryIds": [],
+   "memberId": "c6d3e66e-d4db-4fb7-8218-26474850506c",
+   "hashtags": [],
+   "commentingEnabled": true,
+   "minutesToRead": 4,
+   "tagIds": [],
+   "relatedPostIds": [],
+   "pricingPlanIds": [],
+   "language": "he",
+   "seoData": {
+    "tags": [
+     {
+      "type": "meta",
+      "props": {
+       "content": "מה זה קומורבידיות? הסבר על תחלואה נלווית ב-ADHD: אילו אבחנות מופיעות יחד עם הפרעת קשב, למה זה קורה, ומה זה אומר על אבחון ועל החיים בהייטק.",
+       "name": "description"
+      },
+      "children": "",
+      "custom": false,
+      "disabled": false
+     }
+    ],
+    "settings": {
+     "preventAutoRedirect": false,
+     "keywords": []
+    }
+   },
+   "preview": false,
+   "contentId": "68936ea4d9d80408cb20af1e",
+   "mostRecentContributorId": "fda54b0b-9c04-4542-b34c-4a3f1458023d",
+   "media": {
+    "wixMedia": {
+     "image": {
+      "id": "8053f9_ced0691a184c46a3b3be5d5fbf78aa94~mv2.jpeg",
+      "url": "https://static.wixstatic.com/media/8053f9_ced0691a184c46a3b3be5d5fbf78aa94~mv2.jpeg",
+      "height": 1024,
+      "width": 1024,
+      "filename": "juli2025.jpeg"
+     }
+    },
+    "displayed": true,
+    "custom": true
+   },
+   "hasUnpublishedChanges": false,
+   "translations": [],
+   "customExcerpt": false,
+   "internalCategoryIds": [],
+   "internalRelatedPostIds": []
+  }
+ ],
+ "publishedPostsLanguageEn": [],
+ "draftPosts": [
+  {
+   "id": "cba8f2b2-f97e-4ee0-9694-d7a5b11905f6",
+   "title": "מהי הפרעת קשב (ADHD) ומה הקשר לקומורבידיות?",
+   "featured": false,
+   "categoryIds": [],
+   "memberId": "c6d3e66e-d4db-4fb7-8218-26474850506c",
+   "hashtags": [],
+   "commentingEnabled": true,
+   "minutesToRead": 4,
+   "tagIds": [],
+   "relatedPostIds": [],
+   "pricingPlanIds": [],
+   "language": "he",
+   "changeOrigin": "MANUAL_SAVE",
+   "contentId": "68936ea4d9d80408cb20af1e",
+   "editingSessionId": "f6cae645-7b72-466d-ba88-54a60e6481bb",
+   "status": "PUBLISHED",
+   "mostRecentContributorId": "fda54b0b-9c04-4542-b34c-4a3f1458023d",
+   "hasUnpublishedChanges": false,
+   "editedDate": "2026-09-22T05:57:34Z",
+   "firstPublishedDate": "2025-07-02T14:38:23Z",
+   "seoData": {
+    "tags": [
+     {
+      "type": "meta",
+      "props": {
+       "content": "מה זה קומורבידיות? הסבר על תחלואה נלווית ב-ADHD: אילו אבחנות מופיעות יחד עם הפרעת קשב, למה זה קורה, ומה זה אומר על אבחון ועל החיים בהייטק.",
+       "name": "description"
+      },
+      "children": "",
+      "custom": false,
+      "disabled": false
+     }
+    ],
+    "settings": {
+     "preventAutoRedirect": false,
+     "keywords": []
+    }
+   },
+   "slugs": [
+    "מהי-הפרעת-קשב-adhd-ומה-הקשר-לקומורבידיות"
+   ],
+   "createdDate": "2025-06-15T13:52:16.699Z",
+   "seoSlug": "מהי-הפרעת-קשב-adhd-ומה-הקשר-לקומורבידיות",
+   "media": {
+    "wixMedia": {
+     "image": {
+      "id": "8053f9_ced0691a184c46a3b3be5d5fbf78aa94~mv2.jpeg",
+      "url": "https://static.wixstatic.com/media/8053f9_ced0691a184c46a3b3be5d5fbf78aa94~mv2.jpeg",
+      "height": 1024,
+      "width": 1024,
+      "filename": "juli2025.jpeg"
+     }
+    },
+    "displayed": true,
+    "custom": true
+   },
+   "translations": []
+  },
+  {
+   "id": "2e23cb88-a4bd-4d1c-acd5-453c61bcebb8",
+   "title": "הכלים להצלחה עם ADHD בעולם ההייטק - התמודדות עם adhd בעבודה",
+   "featured": false,
+   "categoryIds": [],
+   "memberId": "fda54b0b-9c04-4542-b34c-4a3f1458023d",
+   "hashtags": [],
+   "commentingEnabled": true,
+   "minutesToRead": 3,
+   "tagIds": [],
+   "relatedPostIds": [],
+   "pricingPlanIds": [],
+   "language": "he",
+   "changeOrigin": "MANUAL_SAVE",
+   "contentId": "69f97cacb27e981e27c60f94",
+   "editingSessionId": "ebc622dd-deca-4d37-bda4-42f7d4abd7dd",
+   "status": "UNPUBLISHED",
+   "mostRecentContributorId": "fda54b0b-9c04-4542-b34c-4a3f1458023d",
+   "hasUnpublishedChanges": true,
+   "editedDate": "2026-05-05T05:14:20Z",
+   "seoData": {
+    "tags": []
+   },
+   "slugs": [],
+   "createdDate": "2026-05-05T05:14:20.363Z",
+   "media": {
+    "wixMedia": {
+     "image": {
+      "id": "fda54b_24aebd908d16403ab925b823cc0deabe~mv2.png",
+      "url": "https://static.wixstatic.com/media/fda54b_24aebd908d16403ab925b823cc0deabe~mv2.png",
+      "height": 576,
+      "width": 1024
+     }
+    },
+    "displayed": true,
+    "custom": false
+   },
+   "translations": []
+  },
+  {
+   "id": "0cdca4e3-0eb0-4124-b958-b17dd4ca7df7",
+   "title": "תרומת ADHD להייטק: איך ADHDOTECH משנה את כללי המשחק",
+   "featured": false,
+   "categoryIds": [],
+   "memberId": "fda54b0b-9c04-4542-b34c-4a3f1458023d",
+   "hashtags": [],
+   "commentingEnabled": true,
+   "minutesToRead": 3,
+   "tagIds": [],
+   "relatedPostIds": [],
+   "pricingPlanIds": [],
+   "language": "he",
+   "changeOrigin": "MANUAL_SAVE",
+   "contentId": "69f0415524f9d3e5cd6f3b77",
+   "editingSessionId": "94177d3f-64fe-44bf-9f22-6911635c710c",
+   "status": "UNPUBLISHED",
+   "mostRecentContributorId": "fda54b0b-9c04-4542-b34c-4a3f1458023d",
+   "hasUnpublishedChanges": true,
+   "editedDate": "2026-04-28T05:10:45Z",
+   "seoData": {
+    "tags": []
+   },
+   "slugs": [],
+   "createdDate": "2026-04-28T05:10:45.881Z",
+   "media": {
+    "wixMedia": {
+     "image": {
+      "id": "fda54b_f1b3764dd4084c2680036f5e02a85b81~mv2.png",
+      "url": "https://static.wixstatic.com/media/fda54b_f1b3764dd4084c2680036f5e02a85b81~mv2.png",
+      "height": 576,
+      "width": 1024
+     }
+    },
+    "displayed": true,
+    "custom": false
+   },
+   "translations": []
+  },
+  {
+   "id": "cf499004-f64c-452f-b748-0d9d211e27dd",
+   "title": "עמותת ADHD להייטק: שינוי אמיתי בתפיסת הפרעת הקשב בתעשיית ההייטק",
+   "featured": false,
+   "categoryIds": [],
+   "memberId": "fda54b0b-9c04-4542-b34c-4a3f1458023d",
+   "hashtags": [],
+   "commentingEnabled": true,
+   "minutesToRead": 3,
+   "tagIds": [],
+   "relatedPostIds": [],
+   "pricingPlanIds": [],
+   "language": "he",
+   "changeOrigin": "MANUAL_SAVE",
+   "contentId": "69e706cd8b2f11ff8e58138c",
+   "editingSessionId": "78a73e9f-1806-4c23-90e8-2cbd3d9c3052",
+   "status": "UNPUBLISHED",
+   "mostRecentContributorId": "fda54b0b-9c04-4542-b34c-4a3f1458023d",
+   "hasUnpublishedChanges": true,
+   "editedDate": "2026-04-21T05:10:37Z",
+   "seoData": {
+    "tags": []
+   },
+   "slugs": [],
+   "createdDate": "2026-04-21T05:10:37.237Z",
+   "media": {
+    "wixMedia": {
+     "image": {
+      "id": "fda54b_19ba151e83354cbca318d2eaba45d304~mv2.png",
+      "url": "https://static.wixstatic.com/media/fda54b_19ba151e83354cbca318d2eaba45d304~mv2.png",
+      "height": 576,
+      "width": 1024
+     }
+    },
+    "displayed": true,
+    "custom": false
+   },
+   "translations": []
+  },
+  {
+   "id": "8ca3a735-6105-4475-81bb-27a07638bc36",
+   "title": "מנטור להפרעת קשב: איך למצוא את התמיכה הנכונה בשבילך",
+   "featured": false,
+   "categoryIds": [],
+   "memberId": "fda54b0b-9c04-4542-b34c-4a3f1458023d",
+   "hashtags": [],
+   "commentingEnabled": true,
+   "minutesToRead": 3,
+   "tagIds": [],
+   "relatedPostIds": [],
+   "pricingPlanIds": [],
+   "language": "he",
+   "changeOrigin": "MANUAL_SAVE",
+   "contentId": "69e706cb8e63193b95d4e541",
+   "editingSessionId": "dff870b1-967e-41b8-95be-aa7e6705daaa",
+   "status": "UNPUBLISHED",
+   "mostRecentContributorId": "fda54b0b-9c04-4542-b34c-4a3f1458023d",
+   "hasUnpublishedChanges": true,
+   "editedDate": "2026-04-21T05:10:35Z",
+   "seoData": {
+    "tags": []
+   },
+   "slugs": [],
+   "createdDate": "2026-04-21T05:10:35.849Z",
+   "media": {
+    "wixMedia": {
+     "image": {
+      "id": "fda54b_0c6f34b361ac43a088786da1a960169c~mv2.png",
+      "url": "https://static.wixstatic.com/media/fda54b_0c6f34b361ac43a088786da1a960169c~mv2.png",
+      "height": 576,
+      "width": 1024
+     }
+    },
+    "displayed": true,
+    "custom": false
+   },
+   "translations": []
+  },
+  {
+   "id": "193ee723-1114-41ef-ab06-fdf1b779df51",
+   "title": "קומורבידיות ADHD: להבין את המורכבות שמאחורי הפרעת הקשב",
+   "featured": false,
+   "categoryIds": [],
+   "memberId": "fda54b0b-9c04-4542-b34c-4a3f1458023d",
+   "hashtags": [],
+   "commentingEnabled": true,
+   "minutesToRead": 3,
+   "tagIds": [],
+   "relatedPostIds": [],
+   "pricingPlanIds": [],
+   "language": "he",
+   "changeOrigin": "MANUAL_SAVE",
+   "contentId": "69ddcc72274b4f0764ce25e6",
+   "editingSessionId": "a462b7a5-cae3-47f9-af49-eb23485d5861",
+   "status": "UNPUBLISHED",
+   "mostRecentContributorId": "fda54b0b-9c04-4542-b34c-4a3f1458023d",
+   "hasUnpublishedChanges": true,
+   "editedDate": "2026-04-14T05:11:14Z",
+   "seoData": {
+    "tags": []
+   },
+   "slugs": [],
+   "createdDate": "2026-04-14T05:11:14.304Z",
+   "media": {
+    "wixMedia": {
+     "image": {
+      "id": "fda54b_ef29b46b0f3047faaa928666d33142b1~mv2.png",
+      "url": "https://static.wixstatic.com/media/fda54b_ef29b46b0f3047faaa928666d33142b1~mv2.png",
+      "height": 576,
+      "width": 1024
+     }
+    },
+    "displayed": true,
+    "custom": false
+   },
+   "translations": []
+  },
+  {
+   "id": "bf840bbb-9c71-4486-bf82-c205460a0532",
+   "title": "אסטרטגיות ניהול ADHD: איך להפוך את האתגר להזדמנות",
+   "featured": false,
+   "categoryIds": [],
+   "memberId": "fda54b0b-9c04-4542-b34c-4a3f1458023d",
+   "hashtags": [],
+   "commentingEnabled": true,
+   "minutesToRead": 3,
+   "tagIds": [],
+   "relatedPostIds": [],
+   "pricingPlanIds": [],
+   "language": "he",
+   "changeOrigin": "MANUAL_SAVE",
+   "contentId": "69d492d7072d140cb95d5269",
+   "editingSessionId": "d93ea50f-a91d-4b2d-9490-4eabbe111d0a",
+   "status": "UNPUBLISHED",
+   "mostRecentContributorId": "fda54b0b-9c04-4542-b34c-4a3f1458023d",
+   "hasUnpublishedChanges": true,
+   "editedDate": "2026-04-07T05:15:02Z",
+   "seoData": {
+    "tags": []
+   },
+   "slugs": [],
+   "createdDate": "2026-04-07T05:15:02.953Z",
+   "media": {
+    "wixMedia": {
+     "image": {
+      "id": "fda54b_a2388e05fee040e5b7f536e6852c865f~mv2.png",
+      "url": "https://static.wixstatic.com/media/fda54b_a2388e05fee040e5b7f536e6852c865f~mv2.png",
+      "height": 576,
+      "width": 1024
+     }
+    },
+    "displayed": true,
+    "custom": false
+   },
+   "translations": []
+  },
+  {
+   "id": "92ab181d-5894-4305-a092-4be9359f941d",
+   "title": "ניהול ADHD בקריירה: ניהול כישורי ADHD להצלחה בהייטק",
+   "featured": false,
+   "categoryIds": [],
+   "memberId": "fda54b0b-9c04-4542-b34c-4a3f1458023d",
+   "hashtags": [],
+   "commentingEnabled": true,
+   "minutesToRead": 3,
+   "tagIds": [],
+   "relatedPostIds": [],
+   "pricingPlanIds": [],
+   "language": "he",
+   "changeOrigin": "MANUAL_SAVE",
+   "contentId": "69cb5724dd3ddd8a5722c70e",
+   "editingSessionId": "b1990d22-63f2-4334-9ba0-0ff111d09213",
+   "status": "UNPUBLISHED",
+   "mostRecentContributorId": "fda54b0b-9c04-4542-b34c-4a3f1458023d",
+   "hasUnpublishedChanges": true,
+   "editedDate": "2026-03-31T05:09:55Z",
+   "seoData": {
+    "tags": []
+   },
+   "slugs": [],
+   "createdDate": "2026-03-31T05:09:55.856Z",
+   "media": {
+    "wixMedia": {
+     "image": {
+      "id": "fda54b_a1f376534b054e4ca051fb5a4cbacd58~mv2.png",
+      "url": "https://static.wixstatic.com/media/fda54b_a1f376534b054e4ca051fb5a4cbacd58~mv2.png",
+      "height": 576,
+      "width": 1024
+     }
+    },
+    "displayed": true,
+    "custom": false
+   },
+   "translations": []
+  },
+  {
+   "id": "6c7e8c60-d915-4cfb-b205-282f21d4fca9",
+   "title": "תמיכה בהייטק דרך עמותת ADHDoTECH",
+   "featured": false,
+   "categoryIds": [],
+   "memberId": "fda54b0b-9c04-4542-b34c-4a3f1458023d",
+   "hashtags": [],
+   "commentingEnabled": true,
+   "minutesToRead": 3,
+   "tagIds": [],
+   "relatedPostIds": [],
+   "pricingPlanIds": [],
+   "language": "he",
+   "changeOrigin": "PUBLISH",
+   "contentId": "69ca05a78bb7e54baa6b665e",
+   "editingSessionId": "5c80ecd2-fd24-4bb6-ae2b-a89722fd66ec",
+   "status": "PUBLISHED",
+   "mostRecentContributorId": "4f80ff86-2bd0-489a-9d21-cbcda228a694",
+   "hasUnpublishedChanges": false,
+   "editedDate": "2026-03-30T05:09:18Z",
+   "firstPublishedDate": "2026-03-30T05:09:59Z",
+   "seoData": {
+    "tags": [],
+    "settings": {
+     "preventAutoRedirect": false,
+     "keywords": []
+    }
+   },
+   "slugs": [
+    "תמיכה-בהייטק-דרך-עמותת-adhdotech"
+   ],
+   "createdDate": "2026-03-24T06:08:42.732Z",
+   "seoSlug": "תמיכה-בהייטק-דרך-עמותת-adhdotech",
+   "media": {
+    "wixMedia": {
+     "image": {
+      "id": "fda54b_7219f8e2354d4ed19774b3a019d5f6fb~mv2.png",
+      "url": "https://static.wixstatic.com/media/fda54b_7219f8e2354d4ed19774b3a019d5f6fb~mv2.png",
+      "height": 768,
+      "width": 1344,
+      "filename": "-post-ai-image-2854.png"
+     }
+    },
+    "displayed": true,
+    "custom": false
+   },
+   "translations": []
+  },
+  {
+   "id": "06ba6854-3ef7-431b-b6f1-1b0706d07f2c",
+   "title": "עמותת adhdotech והחזון שלה",
+   "featured": false,
+   "categoryIds": [],
+   "memberId": "fda54b0b-9c04-4542-b34c-4a3f1458023d",
+   "hashtags": [],
+   "commentingEnabled": true,
+   "minutesToRead": 3,
+   "tagIds": [],
+   "relatedPostIds": [],
+   "pricingPlanIds": [],
+   "language": "he",
+   "changeOrigin": "MANUAL_SAVE",
+   "contentId": "69b8f0ae1d5a8875c9f54bbb",
+   "editingSessionId": "df6f6cd1-24a5-4787-9c15-03b856ddb8f2",
+   "status": "UNPUBLISHED",
+   "mostRecentContributorId": "fda54b0b-9c04-4542-b34c-4a3f1458023d",
+   "hasUnpublishedChanges": true,
+   "editedDate": "2026-03-17T06:11:58Z",
+   "seoData": {
+    "tags": []
+   },
+   "slugs": [],
+   "createdDate": "2026-03-17T06:11:58.075Z",
+   "media": {
+    "wixMedia": {
+     "image": {
+      "id": "fda54b_d3308c0548764ee48d4c62cef8bbe5e1~mv2.png",
+      "url": "https://static.wixstatic.com/media/fda54b_d3308c0548764ee48d4c62cef8bbe5e1~mv2.png",
+      "height": 576,
+      "width": 1024
+     }
+    },
+    "displayed": true,
+    "custom": false
+   },
+   "translations": []
+  },
+  {
+   "id": "9d5bcb21-77f0-4a3a-bf98-635917ba5e65",
+   "title": "הבנת הפרעת קשב וקומורבידיות",
+   "featured": false,
+   "categoryIds": [],
+   "memberId": "fda54b0b-9c04-4542-b34c-4a3f1458023d",
+   "hashtags": [],
+   "commentingEnabled": true,
+   "minutesToRead": 3,
+   "tagIds": [],
+   "relatedPostIds": [],
+   "pricingPlanIds": [],
+   "language": "he",
+   "changeOrigin": "MANUAL_SAVE",
+   "contentId": "69afb5890c1a368a2fa57c7f",
+   "editingSessionId": "c0638dd6-cf52-4403-b0f6-0782b525b69e",
+   "status": "UNPUBLISHED",
+   "mostRecentContributorId": "fda54b0b-9c04-4542-b34c-4a3f1458023d",
+   "hasUnpublishedChanges": true,
+   "editedDate": "2026-03-10T06:09:13Z",
+   "seoData": {
+    "tags": []
+   },
+   "slugs": [],
+   "createdDate": "2026-03-10T06:09:13.524Z",
+   "media": {
+    "wixMedia": {
+     "image": {
+      "id": "fda54b_d618e79ba6bb4e3db0c6f0d4015eeb44~mv2.png",
+      "url": "https://static.wixstatic.com/media/fda54b_d618e79ba6bb4e3db0c6f0d4015eeb44~mv2.png",
+      "height": 576,
+      "width": 1024
+     }
+    },
+    "displayed": true,
+    "custom": false
+   },
+   "translations": []
+  },
+  {
+   "id": "edd25712-5326-42c7-8f6a-da4623b71ba9",
+   "title": "ניהול אפקטיבי עם ADHD: איך להצליח בעולם העבודה המודרני",
+   "featured": false,
+   "categoryIds": [],
+   "memberId": "fda54b0b-9c04-4542-b34c-4a3f1458023d",
+   "hashtags": [],
+   "commentingEnabled": true,
+   "minutesToRead": 3,
+   "tagIds": [],
+   "relatedPostIds": [],
+   "pricingPlanIds": [],
+   "language": "he",
+   "changeOrigin": "MANUAL_SAVE",
+   "contentId": "69a7db98a29c2f9814747122",
+   "editingSessionId": "a5879970-6b91-4996-9fd1-d52c5f3beed6",
+   "status": "UNPUBLISHED",
+   "mostRecentContributorId": "fda54b0b-9c04-4542-b34c-4a3f1458023d",
+   "hasUnpublishedChanges": true,
+   "editedDate": "2026-03-04T07:13:28Z",
+   "seoData": {
+    "tags": []
+   },
+   "slugs": [],
+   "createdDate": "2026-03-04T07:13:28.043Z",
+   "media": {
+    "wixMedia": {
+     "image": {
+      "id": "fda54b_b023b556d0d44fb3a26d3e1deb3ce182~mv2.png",
+      "url": "https://static.wixstatic.com/media/fda54b_b023b556d0d44fb3a26d3e1deb3ce182~mv2.png",
+      "height": 576,
+      "width": 1024
+     }
+    },
+    "displayed": true,
+    "custom": false
+   },
+   "translations": []
+  },
+  {
+   "id": "51b749b8-1e89-4416-a63a-26bbf1deb5b3",
+   "title": "ניהול אפקטיבי עם ADHD: איך להצליח בעולם העבודה המודרני",
+   "featured": false,
+   "categoryIds": [],
+   "memberId": "fda54b0b-9c04-4542-b34c-4a3f1458023d",
+   "hashtags": [],
+   "commentingEnabled": true,
+   "minutesToRead": 3,
+   "tagIds": [],
+   "relatedPostIds": [],
+   "pricingPlanIds": [],
+   "language": "he",
+   "changeOrigin": "MANUAL_SAVE",
+   "contentId": "69a5403f2b1318a248517f98",
+   "editingSessionId": "1b7a5f4f-0eae-4886-9d81-157ae4cc4598",
+   "status": "UNPUBLISHED",
+   "mostRecentContributorId": "fda54b0b-9c04-4542-b34c-4a3f1458023d",
+   "hasUnpublishedChanges": true,
+   "editedDate": "2026-03-02T07:46:07Z",
+   "seoData": {
+    "tags": []
+   },
+   "slugs": [],
+   "createdDate": "2026-03-02T07:46:07.607Z",
+   "media": {
+    "wixMedia": {
+     "image": {
+      "id": "fda54b_b706d985313b4ca98bfae95c7eb78d07~mv2.png",
+      "url": "https://static.wixstatic.com/media/fda54b_b706d985313b4ca98bfae95c7eb78d07~mv2.png",
+      "height": 576,
+      "width": 1024
+     }
+    },
+    "displayed": true,
+    "custom": false
+   },
+   "translations": []
+  },
+  {
+   "id": "908923d2-7aa6-42cf-84e3-e0f43c48ba99",
+   "title": "שיפור מיומנויות ריכוז: כלים ואסטרטגיות לשיפור הקשב",
+   "featured": false,
+   "categoryIds": [],
+   "memberId": "fda54b0b-9c04-4542-b34c-4a3f1458023d",
+   "hashtags": [],
+   "commentingEnabled": true,
+   "minutesToRead": 3,
+   "tagIds": [],
+   "relatedPostIds": [],
+   "pricingPlanIds": [],
+   "language": "he",
+   "changeOrigin": "MANUAL_SAVE",
+   "contentId": "699dc55891604ab56c31d66e",
+   "editingSessionId": "2b905aba-7d67-48e8-be59-3ac7448e6328",
+   "status": "UNPUBLISHED",
+   "mostRecentContributorId": "fda54b0b-9c04-4542-b34c-4a3f1458023d",
+   "hasUnpublishedChanges": true,
+   "editedDate": "2026-02-24T15:35:52Z",
+   "seoData": {
+    "tags": []
+   },
+   "slugs": [],
+   "createdDate": "2026-02-24T15:35:52.238Z",
+   "media": {
+    "wixMedia": {
+     "image": {
+      "id": "fda54b_dc8ebb468eff49cb961ba3d2b60e9604~mv2.png",
+      "url": "https://static.wixstatic.com/media/fda54b_dc8ebb468eff49cb961ba3d2b60e9604~mv2.png",
+      "height": 576,
+      "width": 1024
+     }
+    },
+    "displayed": true,
+    "custom": false
+   },
+   "translations": []
+  },
+  {
+   "id": "2768e6f9-ab96-41c5-8fdf-c3a6b58178ec",
+   "title": "שיטות לשיפור הקשב והריכוז בסביבה מקצועית",
+   "featured": false,
+   "categoryIds": [],
+   "memberId": "fda54b0b-9c04-4542-b34c-4a3f1458023d",
+   "hashtags": [],
+   "commentingEnabled": true,
+   "minutesToRead": 3,
+   "tagIds": [],
+   "relatedPostIds": [],
+   "pricingPlanIds": [],
+   "language": "he",
+   "changeOrigin": "MANUAL_SAVE",
+   "contentId": "6923f6cb56b819e3fb94f752",
+   "editingSessionId": "4dfbbb28-d9cf-4ac1-b11f-be0a4e824b7a",
+   "status": "UNPUBLISHED",
+   "mostRecentContributorId": "fda54b0b-9c04-4542-b34c-4a3f1458023d",
+   "hasUnpublishedChanges": true,
+   "editedDate": "2025-11-24T06:10:19Z",
+   "seoData": {
+    "tags": [
+     {
+      "type": "title",
+      "children": "שיטות לניהול קשב וריכוז בצורה יעילה",
+      "custom": false,
+      "disabled": false
+     },
+     {
+      "type": "meta",
+      "props": {
+       "name": "description",
+       "content": "שיטות יעילות לניהול קשב וריכוז בסביבה אישית ומקצועית."
+      },
+      "children": "",
+      "custom": false,
+      "disabled": false
+     }
+    ],
+    "settings": {
+     "preventAutoRedirect": false,
+     "keywords": [
+      {
+       "term": "ניהול קשב בסביבה מקצועית",
+       "isMain": true,
+       "origin": "marketing-persona"
+      }
+     ]
+    }
+   },
+   "slugs": [],
+   "createdDate": "2025-11-24T06:10:19.622Z",
+   "media": {
+    "wixMedia": {
+     "image": {
+      "id": "fda54b_e198f467fc184a6face0522d260e039f~mv2.png",
+      "url": "https://static.wixstatic.com/media/fda54b_e198f467fc184a6face0522d260e039f~mv2.png",
+      "height": 576,
+      "width": 1024
+     }
+    },
+    "displayed": true,
+    "custom": false
+   },
+   "translations": []
+  },
+  {
+   "id": "b3ecbd46-675e-4834-9499-b31df57ab230",
+   "title": "ניהול כישורים ייחודיים עם ADHD: מדריך מעשי",
+   "featured": false,
+   "categoryIds": [],
+   "memberId": "fda54b0b-9c04-4542-b34c-4a3f1458023d",
+   "hashtags": [],
+   "commentingEnabled": true,
+   "minutesToRead": 3,
+   "tagIds": [],
+   "relatedPostIds": [],
+   "pricingPlanIds": [],
+   "language": "he",
+   "changeOrigin": "MANUAL_SAVE",
+   "contentId": "691abc1912da97798882bb32",
+   "editingSessionId": "7fe39de6-d972-438e-a848-0bd7c9e5c072",
+   "status": "UNPUBLISHED",
+   "mostRecentContributorId": "fda54b0b-9c04-4542-b34c-4a3f1458023d",
+   "hasUnpublishedChanges": true,
+   "editedDate": "2025-11-17T06:09:29Z",
+   "seoData": {
+    "tags": [
+     {
+      "type": "title",
+      "children": "ניהול כישורי ADHD לשיפור העבודה והחיים",
+      "custom": false,
+      "disabled": false
+     },
+     {
+      "type": "meta",
+      "props": {
+       "name": "description",
+       "content": "למדו כיצד לנהל את כישורי ה-ADHD הייחודיים שלכם בצורה אפקטיבית ולהפיק מהם את המיטב בעבודה ובחיי היומיום."
+      },
+      "children": "",
+      "custom": false,
+      "disabled": false
+     }
+    ],
+    "settings": {
+     "preventAutoRedirect": false,
+     "keywords": [
+      {
+       "term": "ניהול כישורי adhd ייחודיים",
+       "isMain": true,
+       "origin": "marketing-persona"
+      }
+     ]
+    }
+   },
+   "slugs": [],
+   "createdDate": "2025-11-17T06:09:29.228Z",
+   "media": {
+    "wixMedia": {
+     "image": {
+      "id": "fda54b_db5a14ce556c4cb9a4c91d09a248e44d~mv2.png",
+      "url": "https://static.wixstatic.com/media/fda54b_db5a14ce556c4cb9a4c91d09a248e44d~mv2.png",
+      "height": 576,
+      "width": 1024
+     }
+    },
+    "displayed": true,
+    "custom": false
+   },
+   "translations": []
+  },
+  {
+   "id": "8a6f61ca-44e2-4537-8f27-48a7110ed20e",
+   "title": "חיזוק יכולות עם קשב וריכוז",
+   "featured": false,
+   "categoryIds": [],
+   "memberId": "fda54b0b-9c04-4542-b34c-4a3f1458023d",
+   "hashtags": [],
+   "commentingEnabled": true,
+   "minutesToRead": 3,
+   "tagIds": [],
+   "relatedPostIds": [],
+   "pricingPlanIds": [],
+   "language": "he",
+   "changeOrigin": "MANUAL_SAVE",
+   "contentId": "691181e644d4e00cba0604fc",
+   "editingSessionId": "a0596d51-5896-482a-b4b7-3ec469cee2eb",
+   "status": "UNPUBLISHED",
+   "mostRecentContributorId": "fda54b0b-9c04-4542-b34c-4a3f1458023d",
+   "hasUnpublishedChanges": true,
+   "editedDate": "2025-11-10T06:10:46Z",
+   "seoData": {
+    "tags": [
+     {
+      "type": "title",
+      "children": "חיזוק כישורי ADHD להצלחה",
+      "custom": false,
+      "disabled": false
+     },
+     {
+      "type": "meta",
+      "props": {
+       "name": "description",
+       "content": "גלו איך קשב וריכוז יכולים להפוך ליתרון תעסוקתי בעזרת אסטרטגיות מנטורינג מותאמות אישית."
+      },
+      "children": "",
+      "custom": false,
+      "disabled": false
+     }
+    ],
+    "settings": {
+     "preventAutoRedirect": false,
+     "keywords": [
+      {
+       "term": "חיזוק כישורים ב-ADHD",
+       "isMain": true,
+       "origin": "marketing-persona"
+      }
+     ]
+    }
+   },
+   "slugs": [],
+   "createdDate": "2025-11-10T06:10:46.732Z",
+   "media": {
+    "wixMedia": {
+     "image": {
+      "id": "fda54b_13f1ba1d52f047e181b500529bdd2cab~mv2.png",
+      "url": "https://static.wixstatic.com/media/fda54b_13f1ba1d52f047e181b500529bdd2cab~mv2.png",
+      "height": 576,
+      "width": 1024
+     }
+    },
+    "displayed": true,
+    "custom": false
+   },
+   "translations": []
+  },
+  {
+   "id": "4639a1b1-a7dd-423a-838f-c11203bf4631",
+   "title": "כששנינו מוח־טורבו: לעבוד ולהוביל עם קשב בהיי־טק",
+   "featured": false,
+   "categoryIds": [],
+   "memberId": "4f80ff86-2bd0-489a-9d21-cbcda228a694",
+   "hashtags": [],
+   "commentingEnabled": true,
+   "minutesToRead": 4,
+   "tagIds": [],
+   "relatedPostIds": [],
+   "pricingPlanIds": [],
+   "language": "he",
+   "changeOrigin": "MANUAL_SAVE",
+   "contentId": "6908654e12b86a0f317cfc2f",
+   "editingSessionId": "684fe150-900b-4e52-88c4-809d861e7d4f",
+   "status": "PUBLISHED",
+   "mostRecentContributorId": "fda54b0b-9c04-4542-b34c-4a3f1458023d",
+   "hasUnpublishedChanges": true,
+   "editedDate": "2025-11-03T08:18:22Z",
+   "firstPublishedDate": "2025-10-14T17:23:03Z",
+   "seoData": {
+    "tags": [],
+    "settings": {
+     "preventAutoRedirect": false,
+     "keywords": []
+    }
+   },
+   "slugs": [
+    "כששנינו-מוח-טורבו-לעבוד-ולהוביל-עם-קשב-בהיי-טק"
+   ],
+   "createdDate": "2025-10-10T09:31:26.967Z",
+   "seoSlug": "כששנינו-מוח-טורבו-לעבוד-ולהוביל-עם-קשב-בהיי-טק",
+   "media": {
+    "wixMedia": {
+     "image": {
+      "id": "781cf8_5724e7725c214bc099cc6a35363f4f95~mv2.png",
+      "url": "https://static.wixstatic.com/media/781cf8_5724e7725c214bc099cc6a35363f4f95~mv2.png",
+      "height": 1024,
+      "width": 1024,
+      "filename": "ChatGPT Image Oct 10, 2025, 11_40_36 AM.png"
+     }
+    },
+    "displayed": true,
+    "custom": false
+   },
+   "translations": []
+  },
+  {
+   "id": "9e4074d0-28fa-42b8-af1a-9b05808b68ed",
+   "title": "שיטות לשיפור קשב וריכוז ב-ADHD",
+   "featured": false,
+   "categoryIds": [],
+   "memberId": "fda54b0b-9c04-4542-b34c-4a3f1458023d",
+   "hashtags": [],
+   "commentingEnabled": true,
+   "minutesToRead": 3,
+   "tagIds": [],
+   "relatedPostIds": [],
+   "pricingPlanIds": [],
+   "language": "he",
+   "changeOrigin": "MANUAL_SAVE",
+   "contentId": "690855baf82473eab675df88",
+   "editingSessionId": "5c6412fa-2785-481b-9063-328ee84e21ba",
+   "status": "UNPUBLISHED",
+   "mostRecentContributorId": "fda54b0b-9c04-4542-b34c-4a3f1458023d",
+   "hasUnpublishedChanges": true,
+   "editedDate": "2025-11-03T07:11:54Z",
+   "seoData": {
+    "tags": [
+     {
+      "type": "title",
+      "children": "שיטות לשיפור קשב וריכוז ב-ADHD",
+      "custom": false,
+      "disabled": false
+     },
+     {
+      "type": "meta",
+      "props": {
+       "name": "description",
+       "content": "גלו טיפים מעשיים לניהול כישורים ייחודיים ב-ADHD ולשיפור הריכוז בעבודה ובחיים האישיים."
+      },
+      "children": "",
+      "custom": false,
+      "disabled": false
+     }
+    ],
+    "settings": {
+     "preventAutoRedirect": false,
+     "keywords": [
+      {
+       "term": "שיפור יכולות ריכוז ב-ADHD",
+       "isMain": true,
+       "origin": "marketing-persona"
+      }
+     ]
+    }
+   },
+   "slugs": [],
+   "createdDate": "2025-11-03T07:11:54.160Z",
+   "media": {
+    "wixMedia": {
+     "image": {
+      "id": "fda54b_1198656444724a6e9474c5c6c4e96641~mv2.png",
+      "url": "https://static.wixstatic.com/media/fda54b_1198656444724a6e9474c5c6c4e96641~mv2.png",
+      "height": 576,
+      "width": 1024
+     }
+    },
+    "displayed": true,
+    "custom": false
+   },
+   "translations": []
+  },
+  {
+   "id": "958d9196-d04b-4ca3-9fb5-628e88b7533e",
+   "title": "שיטות לשיפור הריכוז עם קשב וריכוז",
+   "featured": false,
+   "categoryIds": [],
+   "memberId": "fda54b0b-9c04-4542-b34c-4a3f1458023d",
+   "hashtags": [],
+   "commentingEnabled": true,
+   "minutesToRead": 3,
+   "tagIds": [],
+   "relatedPostIds": [],
+   "pricingPlanIds": [],
+   "language": "he",
+   "changeOrigin": "MANUAL_SAVE",
+   "contentId": "68ff0c960555f4d6b23a0b8f",
+   "editingSessionId": "69a1b56d-671c-4056-a05c-d0000baacbaa",
+   "status": "UNPUBLISHED",
+   "mostRecentContributorId": "fda54b0b-9c04-4542-b34c-4a3f1458023d",
+   "hasUnpublishedChanges": true,
+   "editedDate": "2025-10-27T06:09:26Z",
+   "seoData": {
+    "tags": [
+     {
+      "type": "title",
+      "children": "שיטות לשיפור הריכוז והתמודדות עם ADHD",
+      "custom": false,
+      "disabled": false
+     },
+     {
+      "type": "meta",
+      "props": {
+       "name": "description",
+       "content": "גלה טיפים ואסטרטגיות לשיפור הריכוז ולהתמודדות עם קשב וריכוז. מיועד להורים, מורים וכל מי שמחפש פתרונות פרקטיים."
+      },
+      "children": "",
+      "custom": false,
+      "disabled": false
+     }
+    ],
+    "settings": {
+     "preventAutoRedirect": false,
+     "keywords": [
+      {
+       "term": "שיפור הריכוז ב-ADHD",
+       "isMain": true,
+       "origin": "marketing-persona"
+      }
+     ]
+    }
+   },
+   "slugs": [],
+   "createdDate": "2025-10-27T06:09:26.059Z",
+   "media": {
+    "wixMedia": {
+     "image": {
+      "id": "fda54b_a230c34872194800ae49f3d117f761a8~mv2.png",
+      "url": "https://static.wixstatic.com/media/fda54b_a230c34872194800ae49f3d117f761a8~mv2.png",
+      "height": 576,
+      "width": 1024
+     }
+    },
+    "displayed": true,
+    "custom": false
+   },
+   "translations": []
+  },
+  {
+   "id": "0642d7cb-23ed-4cbd-b5c9-dfe3e8707e6f",
+   "title": "כיצד ADHD יכול להיות יתרון בעבודה?",
+   "featured": false,
+   "categoryIds": [],
+   "memberId": "fda54b0b-9c04-4542-b34c-4a3f1458023d",
+   "hashtags": [],
+   "commentingEnabled": true,
+   "minutesToRead": 3,
+   "tagIds": [],
+   "relatedPostIds": [],
+   "pricingPlanIds": [],
+   "language": "he",
+   "changeOrigin": "MANUAL_SAVE",
+   "contentId": "68f5c40fa6f2484f3c9ab19b",
+   "editingSessionId": "ef3a9cf9-d0f1-4169-a2a0-7f8ed23f73c8",
+   "status": "UNPUBLISHED",
+   "mostRecentContributorId": "fda54b0b-9c04-4542-b34c-4a3f1458023d",
+   "hasUnpublishedChanges": true,
+   "editedDate": "2025-10-20T05:09:35Z",
+   "seoData": {
+    "tags": [
+     {
+      "type": "title",
+      "children": "היתרונות של ADHD בתחום התעסוקתי",
+      "custom": false,
+      "disabled": false
+     },
+     {
+      "type": "meta",
+      "props": {
+       "name": "description",
+       "content": "גלה כיצד ADHD יכול לשפר את הכישורים שלך ולהוביל להצלחה בתחום התעסוקתי, במיוחד בהייטק."
+      },
+      "children": "",
+      "custom": false,
+      "disabled": false
+     }
+    ],
+    "settings": {
+     "preventAutoRedirect": false,
+     "keywords": [
+      {
+       "term": "יתרונות ADHD בעבודה",
+       "isMain": true,
+       "origin": "marketing-persona"
+      }
+     ]
+    }
+   },
+   "slugs": [],
+   "createdDate": "2025-10-20T05:09:35.131Z",
+   "media": {
+    "wixMedia": {
+     "image": {
+      "id": "fda54b_fe721b6a25da4249afb3a1f02d2784e0~mv2.png",
+      "url": "https://static.wixstatic.com/media/fda54b_fe721b6a25da4249afb3a1f02d2784e0~mv2.png",
+      "height": 576,
+      "width": 1024
+     }
+    },
+    "displayed": true,
+    "custom": false
+   },
+   "translations": []
+  },
+  {
+   "id": "9bbb729d-973f-44cb-8c81-46b0436d6e38",
+   "title": "ADHD: לא רק של ילדים - איך זה משפיע עלינו בעבודה",
+   "featured": false,
+   "categoryIds": [],
+   "memberId": "c6d3e66e-d4db-4fb7-8218-26474850506c",
+   "hashtags": [],
+   "commentingEnabled": true,
+   "minutesToRead": 5,
+   "tagIds": [],
+   "relatedPostIds": [],
+   "pricingPlanIds": [],
+   "language": "he",
+   "changeOrigin": "PUBLISH",
+   "contentId": "68e8d81851f676ec2abe2659",
+   "editingSessionId": "17207516-4c82-4b9e-8491-060009739f7d",
+   "status": "PUBLISHED",
+   "mostRecentContributorId": "4f80ff86-2bd0-489a-9d21-cbcda228a694",
+   "hasUnpublishedChanges": false,
+   "editedDate": "2025-10-16T08:00:21Z",
+   "firstPublishedDate": "2025-09-07T13:42:02Z",
+   "seoData": {
+    "tags": [],
+    "settings": {
+     "preventAutoRedirect": false,
+     "keywords": []
+    }
+   },
+   "slugs": [
+    "להבין-את-התסמינים-של-adhdמעבר-לסטריאוטיפים-ולאורך-מעגל-החיים"
+   ],
+   "createdDate": "2025-09-07T13:35:04.551Z",
+   "seoSlug": "להבין-את-התסמינים-של-adhdמעבר-לסטריאוטיפים-ולאורך-מעגל-החיים",
+   "media": {
+    "wixMedia": {
+     "image": {
+      "id": "781cf8_af2cd12088574794a8210397ef8319bf~mv2.png",
+      "url": "https://static.wixstatic.com/media/781cf8_af2cd12088574794a8210397ef8319bf~mv2.png",
+      "height": 1024,
+      "width": 1536,
+      "filename": "ChatGPT Image Sep 7, 2025, 04_32_08 PM.png"
+     }
+    },
+    "displayed": true,
+    "custom": false
+   },
+   "translations": []
+  },
+  {
+   "id": "f92a54f0-2a0b-498a-89c9-5193dcf77c64",
+   "title": "מקסם את הפוטנציאל שלך בעזרת מנטור ADHD",
+   "featured": false,
+   "categoryIds": [],
+   "memberId": "fda54b0b-9c04-4542-b34c-4a3f1458023d",
+   "hashtags": [],
+   "commentingEnabled": true,
+   "minutesToRead": 3,
+   "tagIds": [],
+   "relatedPostIds": [],
+   "pricingPlanIds": [],
+   "translationId": "2f4207fc-e154-47c2-b166-b885307e98dd",
+   "language": "he",
+   "changeOrigin": "PUBLISH",
+   "contentId": "68ecbd8cd9148378f5dbfe27",
+   "editingSessionId": "786d1584-3d70-46bc-937c-47380eafd456",
+   "status": "PUBLISHED",
+   "mostRecentContributorId": "fda54b0b-9c04-4542-b34c-4a3f1458023d",
+   "hasUnpublishedChanges": false,
+   "editedDate": "2025-10-13T08:51:23Z",
+   "firstPublishedDate": "2025-10-13T08:45:13Z",
+   "seoData": {
+    "tags": [
+     {
+      "type": "title",
+      "children": "תמיכה מנטורית לשיפור הקשב והריכוז",
+      "custom": false,
+      "disabled": false
+     },
+     {
+      "type": "meta",
+      "props": {
+       "name": "description",
+       "content": "גלה כיצד לתמוך ולשפר את יכולות הקשב והריכוז שלך בעזרת מנטור מקצועי."
+      },
+      "children": "",
+      "custom": false,
+      "disabled": false
+     }
+    ],
+    "settings": {
+     "preventAutoRedirect": false,
+     "keywords": [
+      {
+       "term": "שיפור הריכוז עם מנטור",
+       "isMain": true,
+       "origin": "marketing-persona"
+      }
+     ]
+    }
+   },
+   "slugs": [
+    "מקסם-את-הריכוז-שלך-בעזרת-מנטור-adhd"
+   ],
+   "createdDate": "2025-10-06T13:45:18.449Z",
+   "seoSlug": "מקסם-את-הריכוז-שלך-בעזרת-מנטור-adhd",
+   "media": {
+    "wixMedia": {
+     "image": {
+      "id": "fda54b_9b6f6c5a7e374c4b8e4062971b2c0a03~mv2.png",
+      "url": "https://static.wixstatic.com/media/fda54b_9b6f6c5a7e374c4b8e4062971b2c0a03~mv2.png",
+      "height": 768,
+      "width": 1344,
+      "filename": "-post-ai-image-501.png"
+     }
+    },
+    "displayed": true,
+    "custom": false
+   },
+   "translations": []
+  },
+  {
+   "id": "cd255b3b-bda6-43f0-9830-1be9b0cafc76",
+   "title": "אסטרטגיות לניהול אפקטיבי עם ADHD",
+   "featured": false,
+   "categoryIds": [],
+   "memberId": "fda54b0b-9c04-4542-b34c-4a3f1458023d",
+   "hashtags": [],
+   "commentingEnabled": true,
+   "minutesToRead": 3,
+   "tagIds": [],
+   "relatedPostIds": [],
+   "pricingPlanIds": [],
+   "language": "he",
+   "changeOrigin": "MANUAL_SAVE",
+   "contentId": "68ec898aee94b76d539854fe",
+   "editingSessionId": "b9d55f1f-95db-46b2-b94c-efe26af5db3d",
+   "status": "UNPUBLISHED",
+   "mostRecentContributorId": "fda54b0b-9c04-4542-b34c-4a3f1458023d",
+   "hasUnpublishedChanges": true,
+   "editedDate": "2025-10-13T05:09:30Z",
+   "seoData": {
+    "tags": [
+     {
+      "type": "title",
+      "children": "ניהול ADHD בהייטק: המדריך",
+      "custom": false,
+      "disabled": false
+     },
+     {
+      "type": "meta",
+      "props": {
+       "name": "description",
+       "content": "דרכים לפיתוח אסטרטגיות ניהוליות שיכולות לסייע בהתמודדות עם ADHD במקצועות ההייטק."
+      },
+      "children": "",
+      "custom": false,
+      "disabled": false
+     }
+    ],
+    "settings": {
+     "preventAutoRedirect": false,
+     "keywords": [
+      {
+       "term": "אסטרטגיות לניהול ADHD",
+       "isMain": true,
+       "origin": "marketing-persona"
+      }
+     ]
+    }
+   },
+   "slugs": [],
+   "createdDate": "2025-10-13T05:09:30.082Z",
+   "media": {
+    "wixMedia": {
+     "image": {
+      "id": "fda54b_6ef0d2e7c47b43bba00ac079fb69e5c1~mv2.png",
+      "url": "https://static.wixstatic.com/media/fda54b_6ef0d2e7c47b43bba00ac079fb69e5c1~mv2.png",
+      "height": 576,
+      "width": 1024
+     }
+    },
+    "displayed": true,
+    "custom": false
+   },
+   "translations": []
+  },
+  {
+   "id": "7ba9dad7-70ac-4d36-afdf-a38dd0fcc0d7",
+   "title": "Maximize your concentration with ADHD Mentor",
+   "featured": false,
+   "categoryIds": [],
+   "memberId": "fda54b0b-9c04-4542-b34c-4a3f1458023d",
+   "hashtags": [],
+   "commentingEnabled": true,
+   "minutesToRead": 3,
+   "tagIds": [],
+   "relatedPostIds": [],
+   "pricingPlanIds": [],
+   "translationId": "2f4207fc-e154-47c2-b166-b885307e98dd",
+   "language": "en",
+   "changeOrigin": "TRANSLATION",
+   "contentId": "68e81b7d0c3a590071bd5ea9",
+   "editingSessionId": "1cbd7067-81a7-4d67-911e-2b12c6615cc1",
+   "status": "UNPUBLISHED",
+   "mostRecentContributorId": "fda54b0b-9c04-4542-b34c-4a3f1458023d",
+   "hasUnpublishedChanges": true,
+   "editedDate": "2025-10-09T20:30:53Z",
+   "seoData": {
+    "tags": []
+   },
+   "slugs": [],
+   "createdDate": "2025-10-09T20:30:53.289Z",
+   "media": {
+    "wixMedia": {
+     "image": {
+      "id": "fda54b_9b6f6c5a7e374c4b8e4062971b2c0a03~mv2.png",
+      "url": "https://static.wixstatic.com/media/fda54b_9b6f6c5a7e374c4b8e4062971b2c0a03~mv2.png",
+      "height": 576,
+      "width": 1024
+     }
+    },
+    "displayed": true,
+    "custom": false
+   },
+   "translations": []
+  }
+ ]
+}
